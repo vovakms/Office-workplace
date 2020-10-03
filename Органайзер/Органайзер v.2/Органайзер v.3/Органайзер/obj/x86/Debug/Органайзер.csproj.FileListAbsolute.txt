@@ -1,0 +1,61 @@
+C:\Users\Admin\AppData\Local\Temporary Projects\Органайзер\bin\Debug\Органайзер.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\Органайзер\bin\Debug\Органайзер.pdb
+C:\Users\Admin\AppData\Local\Temporary Projects\Органайзер\obj\x86\Debug\Органайзер.Form1.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\Органайзер\obj\x86\Debug\Органайзер.Properties.Resources.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\Органайзер\obj\x86\Debug\Органайзер.csproj.GenerateResource.Cache
+C:\Users\Admin\AppData\Local\Temporary Projects\Органайзер\obj\x86\Debug\Органайзер.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\Органайзер\obj\x86\Debug\Органайзер.pdb
+C:\Users\Admin\Desktop\C#\Органайзер\Органайзер\obj\x86\Debug\Органайзер.exe
+C:\Users\Admin\Desktop\C#\Органайзер\Органайзер\obj\x86\Debug\Органайзер.pdb
+C:\Users\Admin\Desktop\C#\Органайзер\Органайзер\bin\Debug\Органайзер.exe
+C:\Users\Admin\Desktop\C#\Органайзер\Органайзер\bin\Debug\Органайзер.pdb
+C:\Users\Admin\Desktop\C#\Органайзер\Органайзер\obj\x86\Debug\Органайзер.Form1.resources
+C:\Users\Admin\Desktop\C#\Органайзер\Органайзер\obj\x86\Debug\Органайзер.Properties.Resources.resources
+C:\Users\Admin\Desktop\C#\Органайзер\Органайзер\obj\x86\Debug\Органайзер.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\C#\Органайзер\Органайзер\obj\x86\Debug\Органайзер.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\C#\Органайзер\Органайзер\obj\x86\Debug\Органайзер.Form2.resources
+C:\Users\Admin\Desktop\C#\Органайзер\Органайзер\bin\Debug\Органайзер.exe.config
+C:\Users\ПисьменныйВБ\Desktop\C#\Органайзер\Органайзер\bin\Debug\Органайзер.exe.config
+C:\Users\ПисьменныйВБ\Desktop\C#\Органайзер\Органайзер\obj\x86\Debug\Органайзер.exe
+C:\Users\ПисьменныйВБ\Desktop\C#\Органайзер\Органайзер\obj\x86\Debug\Органайзер.pdb
+C:\Users\ПисьменныйВБ\Desktop\C#\Органайзер\Органайзер\bin\Debug\Органайзер.exe
+C:\Users\ПисьменныйВБ\Desktop\C#\Органайзер\Органайзер\bin\Debug\Органайзер.pdb
+C:\Users\ПисьменныйВБ\Desktop\C#\Органайзер\Органайзер\obj\x86\Debug\Органайзер.csprojResolveAssemblyReference.cache
+C:\Users\ПисьменныйВБ\Desktop\C#\Органайзер\Органайзер\obj\x86\Debug\Органайзер.Form1.resources
+C:\Users\ПисьменныйВБ\Desktop\C#\Органайзер\Органайзер\obj\x86\Debug\Органайзер.Form2.resources
+C:\Users\ПисьменныйВБ\Desktop\C#\Органайзер\Органайзер\obj\x86\Debug\Органайзер.Properties.Resources.resources
+C:\Users\ПисьменныйВБ\Desktop\C#\Органайзер\Органайзер\obj\x86\Debug\Органайзер.csproj.GenerateResource.Cache
+C:\Users\ПисьменныйВБ\Desktop\ОРГАНАЙЗЕР v.2\Органайзер\Органайзер\bin\Debug\Органайзер.exe.config
+C:\Users\ПисьменныйВБ\Desktop\ОРГАНАЙЗЕР v.2\Органайзер\Органайзер\obj\x86\Debug\Органайзер.exe
+C:\Users\ПисьменныйВБ\Desktop\ОРГАНАЙЗЕР v.2\Органайзер\Органайзер\obj\x86\Debug\Органайзер.pdb
+C:\Users\ПисьменныйВБ\Desktop\ОРГАНАЙЗЕР v.2\Органайзер\Органайзер\bin\Debug\Органайзер.exe
+C:\Users\ПисьменныйВБ\Desktop\ОРГАНАЙЗЕР v.2\Органайзер\Органайзер\bin\Debug\Органайзер.pdb
+C:\Users\ПисьменныйВБ\Desktop\ОРГАНАЙЗЕР v.2\Органайзер\Органайзер\obj\x86\Debug\Органайзер.csprojResolveAssemblyReference.cache
+C:\Users\ПисьменныйВБ\Desktop\ОРГАНАЙЗЕР v.2\Органайзер\Органайзер\obj\x86\Debug\Органайзер.Form1.resources
+C:\Users\ПисьменныйВБ\Desktop\ОРГАНАЙЗЕР v.2\Органайзер\Органайзер\obj\x86\Debug\Органайзер.Form2.resources
+C:\Users\ПисьменныйВБ\Desktop\ОРГАНАЙЗЕР v.2\Органайзер\Органайзер\obj\x86\Debug\Органайзер.Properties.Resources.resources
+C:\Users\ПисьменныйВБ\Desktop\ОРГАНАЙЗЕР v.2\Органайзер\Органайзер\obj\x86\Debug\Органайзер.csproj.GenerateResource.Cache
+C:\Users\ПисьменныйВБ\Desktop\ОРГАНАЙЗЕР v.2\Органайзер\Органайзер\obj\x86\Debug\Органайзер.Form3.resources
+C:\Users\ПисьменныйВБ\Desktop\ОРГАНАЙЗЕР\Органайзер v.3\Органайзер\bin\Debug\Органайзер.exe.config
+C:\Users\ПисьменныйВБ\Desktop\ОРГАНАЙЗЕР\Органайзер v.3\Органайзер\obj\x86\Debug\Органайзер.exe
+C:\Users\ПисьменныйВБ\Desktop\ОРГАНАЙЗЕР\Органайзер v.3\Органайзер\obj\x86\Debug\Органайзер.pdb
+C:\Users\ПисьменныйВБ\Desktop\ОРГАНАЙЗЕР\Органайзер v.3\Органайзер\bin\Debug\Органайзер.exe
+C:\Users\ПисьменныйВБ\Desktop\ОРГАНАЙЗЕР\Органайзер v.3\Органайзер\bin\Debug\Органайзер.pdb
+C:\Users\ПисьменныйВБ\Desktop\ОРГАНАЙЗЕР\Органайзер v.3\Органайзер\obj\x86\Debug\Органайзер.csprojResolveAssemblyReference.cache
+C:\Users\ПисьменныйВБ\Desktop\ОРГАНАЙЗЕР\Органайзер v.3\Органайзер\obj\x86\Debug\Органайзер.Form1.resources
+C:\Users\ПисьменныйВБ\Desktop\ОРГАНАЙЗЕР\Органайзер v.3\Органайзер\obj\x86\Debug\Органайзер.Form2.resources
+C:\Users\ПисьменныйВБ\Desktop\ОРГАНАЙЗЕР\Органайзер v.3\Органайзер\obj\x86\Debug\Органайзер.Form3.resources
+C:\Users\ПисьменныйВБ\Desktop\ОРГАНАЙЗЕР\Органайзер v.3\Органайзер\obj\x86\Debug\Органайзер.Properties.Resources.resources
+C:\Users\ПисьменныйВБ\Desktop\ОРГАНАЙЗЕР\Органайзер v.3\Органайзер\obj\x86\Debug\Органайзер.csproj.GenerateResource.Cache
+D:\ОРГАНАЙЗЕР\Органайзер v.3\Органайзер\bin\Debug\Органайзер.exe.config
+D:\ОРГАНАЙЗЕР\Органайзер v.3\Органайзер\obj\x86\Debug\Органайзер.exe
+D:\ОРГАНАЙЗЕР\Органайзер v.3\Органайзер\obj\x86\Debug\Органайзер.pdb
+D:\ОРГАНАЙЗЕР\Органайзер v.3\Органайзер\bin\Debug\Органайзер.exe
+D:\ОРГАНАЙЗЕР\Органайзер v.3\Органайзер\bin\Debug\Органайзер.pdb
+D:\ОРГАНАЙЗЕР\Органайзер v.3\Органайзер\obj\x86\Debug\Органайзер.csprojResolveAssemblyReference.cache
+D:\ОРГАНАЙЗЕР\Органайзер v.3\Органайзер\obj\x86\Debug\Органайзер.Form1.resources
+D:\ОРГАНАЙЗЕР\Органайзер v.3\Органайзер\obj\x86\Debug\Органайзер.Form2.resources
+D:\ОРГАНАЙЗЕР\Органайзер v.3\Органайзер\obj\x86\Debug\Органайзер.Form3.resources
+D:\ОРГАНАЙЗЕР\Органайзер v.3\Органайзер\obj\x86\Debug\Органайзер.Properties.Resources.resources
+D:\ОРГАНАЙЗЕР\Органайзер v.3\Органайзер\obj\x86\Debug\Органайзер.csproj.GenerateResource.Cache
+D:\ОРГАНАЙЗЕР\Органайзер v.3\Органайзер\obj\x86\Debug\Органайзер.Form4.resources
