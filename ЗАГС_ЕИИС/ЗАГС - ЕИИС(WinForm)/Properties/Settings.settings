@@ -1,0 +1,45 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ОтчетыHyTech.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Dsn=HyTech;uid=HTADMIN;pwd=PASSWORD;srv=tcpip:/localhost:13000;sn=tcpip:/localhost:13000;ct=N;fixall=Y;msjet=N&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.Odbc&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Dsn=HyTech;uid=HTADMIN;pwd=PASSWORD;srv=tcpip:/localhost:13000;sn=tcpip:/localhost:13000;ct=N;fixall=Y;msjet=N</Value>
+    </Setting>
+    <Setting Name="IPServer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10.27.11.130:13000</Value>
+    </Setting>
+    <Setting Name="LOGIN" Type="System.String" Scope="User">
+      <Value Profile="(Default)">HTADMIN</Value>
+    </Setting>
+    <Setting Name="PASSWORD" Type="System.String" Scope="User">
+      <Value Profile="(Default)">PASSWORD</Value>
+    </Setting>
+    <Setting Name="ConODBC" Type="System.String" Scope="User">
+      <Value Profile="(Default)">HyTech</Value>
+    </Setting>
+    <Setting Name="ConnectionStringXRO" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Dsn=HyTechXRO;uid=Administrator2014;srv=tcpip:/10.27.0.36:13000;sn=tcpip:/10.27.0.36:13000;ct=N;fixall=Y;msjet=N&lt;/ConnectionString&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Dsn=HyTechXRO;uid=Administrator2014;srv=tcpip:/10.27.0.36:13000;sn=tcpip:/10.27.0.36:13000;ct=N;fixall=Y;msjet=N</Value>
+    </Setting>
+    <Setting Name="IPServer2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10.27.0.36:13000</Value>
+    </Setting>
+    <Setting Name="LOGIN2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">HTADMIN</Value>
+    </Setting>
+    <Setting Name="PASSWORD2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Administrator2014</Value>
+    </Setting>
+    <Setting Name="ConODBC2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">HyTechXRO</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

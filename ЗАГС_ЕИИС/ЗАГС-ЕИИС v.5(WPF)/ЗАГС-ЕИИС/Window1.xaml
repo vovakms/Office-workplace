@@ -1,0 +1,66 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ЗАГС_ЕИИС"
+        xmlns:ribbon="http://schemas.actiprosoftware.com/winfx/xaml/ribbon" x:Name="window2" x:Class="ЗАГС_ЕИИС.Window1"
+        mc:Ignorable="d"
+        Title="Настройки" Height="385.5" Width="673.334" Closing="window2_Closing" WindowStyle="None" Background="{x:Null}">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF97E2E6" Offset="0"/>
+                <GradientStop Color="White" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <RadioButton x:Name="radioButton2" Content="&quot;Получатели страховых выплат&quot; и &quot;Заявки льготников&quot; в разных БД" HorizontalAlignment="Left" Margin="87,125,0,0" VerticalAlignment="Top" Checked="radioButton2_Checked"/>
+        <RadioButton x:Name="radioButton1" Content="&quot;Получатели страховых выплат&quot; и &quot;Заявки льготников&quot; в одной БД" HorizontalAlignment="Left" Margin="87,105,0,0" VerticalAlignment="Top" Checked="radioButton1_Checked"/>
+        <Grid x:Name="grid2" HorizontalAlignment="Left" Height="175" Margin="0,148,0,0" VerticalAlignment="Top" Width="232" Visibility="Hidden">
+            <TextBox x:Name="textBox4" HorizontalAlignment="Left" Height="24" TextWrapping="Wrap" Text="HyTech" VerticalAlignment="Top" Width="198" Margin="14,16,0,0"/>
+            <TextBox x:Name="textBox1" HorizontalAlignment="Left" Height="24" TextWrapping="Wrap" Text="PASSWORD" VerticalAlignment="Top" Width="198" Margin="14,152,0,-1"/>
+            <TextBox x:Name="textBox2" HorizontalAlignment="Left" Height="24" TextWrapping="Wrap" Text="10.27.11.130:13000" VerticalAlignment="Top" Width="198" Margin="14,62,0,0"/>
+            <TextBox x:Name="textBox3" HorizontalAlignment="Left" Height="22" TextWrapping="Wrap" Text="HTADMIN" VerticalAlignment="Top" Width="198" Margin="14,108,0,0"/>
+            <Label x:Name="label" Content="Имя первого источника данных ODBC" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,0,0,0"/>
+            <Label x:Name="label1" Content="СерверБД:13000" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,46,0,0"/>
+            <Label x:Name="label2" Content="Логин" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,92,0,0"/>
+            <Label x:Name="label3" Content="Пароль" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,136,0,0"/>
+        </Grid>
+        <Grid x:Name="grid3" HorizontalAlignment="Left" Height="183" Margin="232,146,0,0" VerticalAlignment="Top" Width="218" Visibility="Hidden">
+            <TextBox x:Name="textBox21" HorizontalAlignment="Left" Height="24" TextWrapping="Wrap" Text="HyTechXRO" VerticalAlignment="Top" Width="198" Margin="14,18,-60,0"/>
+            <TextBox x:Name="textBox24" HorizontalAlignment="Left" Height="24" TextWrapping="Wrap" Text="Administrator2014" VerticalAlignment="Top" Width="197" Margin="14,154,-59,0"/>
+            <TextBox x:Name="textBox22" HorizontalAlignment="Left" Height="24" TextWrapping="Wrap" Text="10.27.0.36:13000" VerticalAlignment="Top" Width="197" Margin="14,64,-59,0"/>
+            <TextBox x:Name="textBox23" HorizontalAlignment="Left" Height="22" TextWrapping="Wrap" Text="HTADMIN" VerticalAlignment="Top" Width="197" Margin="14,110,-59,0"/>
+            <Label x:Name="label21" Content="Имя второго источника данных ODBC" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,2,-59,0"/>
+            <Label x:Name="label22" Content="СерверБД:порт" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="9,48,0,0"/>
+            <Label x:Name="label23" Content="Логин" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,94,0,0"/>
+            <Label x:Name="label24" Content="Пароль" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,138,0,0"/>
+        </Grid>
+        <StatusBar Height="30" VerticalAlignment="Top">
+            <StatusBar.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="2,1">
+                    <GradientStop Color="#FF563DF3" Offset="0"/>
+                    <GradientStop Color="#FFD8F3F7" Offset="1"/>
+                </LinearGradientBrush>
+            </StatusBar.Background>
+            <Button x:Name="button2" Content="Установить драйвер ODBC HyTech" Height="22" Width="175" FontSize="10.667" Click="button2_Click"/>
+            <Button x:Name="button3" Content="Создать источник данных ODBC" Height="22" Width="175" Click="button3_Click"/>
+            <StatusBarItem Content="" Height="24" VerticalAlignment="Top" Width="276" HorizontalAlignment="Left"/>
+            <Button x:Name="button41" Content="" Height="22" Width="15" Background="#FFF36F51" Click="button41_Click"/>
+        </StatusBar>
+        <StatusBar Height="30" VerticalAlignment="Bottom">
+            <StatusBar.Background>
+                <LinearGradientBrush EndPoint="1,2" StartPoint="0.5,0">
+                    <GradientStop Color="#FF80A8EE" Offset="0"/>
+                    <GradientStop Color="#FFDEF9F6" Offset="1"/>
+                    <GradientStop Color="#FFA6F3D0" Offset="0.332"/>
+                    <GradientStop Color="#FFA0D7FD" Offset="0.732"/>
+                </LinearGradientBrush>
+            </StatusBar.Background>
+        </StatusBar>
+        <TextBlock x:Name="textBlock1" HorizontalAlignment="Left" Height="58" Margin="4,38,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="459"><Run Text="  "/><Run FontWeight="Bold" FontSize="13.333" Text="Внимание !!!"/><LineBreak/><Run Text="  "/><Run FontSize="13.333" Text="Выберите соответствующую опцию и заполните поля своими данными, после чего закройте данное окно и перезагрузите программу."/></TextBlock>
+    </Grid>
+</Window>

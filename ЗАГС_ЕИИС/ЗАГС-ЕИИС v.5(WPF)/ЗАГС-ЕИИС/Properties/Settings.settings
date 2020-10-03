@@ -1,0 +1,45 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ЗАГС_ЕИИС.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Источн1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">HyTech</Value>
+    </Setting>
+    <Setting Name="Источн2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">HyTechXRO</Value>
+    </Setting>
+    <Setting Name="СерверБД1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10.27.11.130:13000</Value>
+    </Setting>
+    <Setting Name="СерверБД2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10.27.0.36:13000</Value>
+    </Setting>
+    <Setting Name="Логин1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">HTADMIN</Value>
+    </Setting>
+    <Setting Name="Логин2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">HTADMIN</Value>
+    </Setting>
+    <Setting Name="Пароль1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">PASSWORD</Value>
+    </Setting>
+    <Setting Name="Пароль2" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ОдинИсточн" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ДваИсточн" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ПервыйЗапПрог" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="КодФилиала" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2711</Value>
+    </Setting>
+    <Setting Name="НаимОрг" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ГУ-ХРО ФСС РФ ФИЛИАЛ № 11</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

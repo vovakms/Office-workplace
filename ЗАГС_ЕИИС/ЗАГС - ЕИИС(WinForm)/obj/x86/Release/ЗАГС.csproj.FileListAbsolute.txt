@@ -1,0 +1,41 @@
+D:\7_DEVELOP\7_C#\ЗАГС-ЕИИС\bin\Release\ЗАГС-ЕИИС.exe.config
+D:\7_DEVELOP\7_C#\ЗАГС-ЕИИС\bin\Release\ЗАГС-ЕИИС.exe
+D:\7_DEVELOP\7_C#\ЗАГС-ЕИИС\bin\Release\ЗАГС-ЕИИС.pdb
+D:\7_DEVELOP\7_C#\ЗАГС-ЕИИС\obj\x86\Release\ЗАГС.csproj.ResolveComReference.cache
+D:\7_DEVELOP\7_C#\ЗАГС-ЕИИС\obj\x86\Release\ОтчетыHyTech.Form1.resources
+D:\7_DEVELOP\7_C#\ЗАГС-ЕИИС\obj\x86\Release\ОтчетыHyTech.Form2.resources
+D:\7_DEVELOP\7_C#\ЗАГС-ЕИИС\obj\x86\Release\ОтчетыHyTech.Properties.Resources.resources
+D:\7_DEVELOP\7_C#\ЗАГС-ЕИИС\obj\x86\Release\ЗАГС.csproj.GenerateResource.Cache
+D:\7_DEVELOP\7_C#\ЗАГС-ЕИИС\obj\x86\Release\ЗАГС-ЕИИС.exe
+D:\7_DEVELOP\7_C#\ЗАГС-ЕИИС\obj\x86\Release\ЗАГС-ЕИИС.pdb
+D:\1_Relis\2__ЗАГС - ЕИИС\bin\Release\ЗАГС-ЕИИС.exe.config
+D:\1_Relis\2__ЗАГС - ЕИИС\bin\Release\ЗАГС-ЕИИС.exe
+D:\1_Relis\2__ЗАГС - ЕИИС\bin\Release\ЗАГС-ЕИИС.pdb
+D:\1_Relis\2__ЗАГС - ЕИИС\obj\x86\Release\ЗАГС.csproj.ResolveComReference.cache
+D:\1_Relis\2__ЗАГС - ЕИИС\obj\x86\Release\ОтчетыHyTech.Form1.resources
+D:\1_Relis\2__ЗАГС - ЕИИС\obj\x86\Release\ОтчетыHyTech.Form2.resources
+D:\1_Relis\2__ЗАГС - ЕИИС\obj\x86\Release\ОтчетыHyTech.Properties.Resources.resources
+D:\1_Relis\2__ЗАГС - ЕИИС\obj\x86\Release\ЗАГС.csproj.GenerateResource.Cache
+D:\1_Relis\2__ЗАГС - ЕИИС\obj\x86\Release\ЗАГС-ЕИИС.exe
+D:\1_Relis\2__ЗАГС - ЕИИС\obj\x86\Release\ЗАГС-ЕИИС.pdb
+D:\1_R_E_l_i_S\2_ЗАГС - ЕИИС\bin\Release\ЗАГС-ЕИИС.exe.config
+D:\1_R_E_l_i_S\2_ЗАГС - ЕИИС\obj\x86\Release\ЗАГС.csproj.ResolveComReference.cache
+D:\1_R_E_l_i_S\2_ЗАГС - ЕИИС\obj\x86\Release\ЗАГС-ЕИИС.exe
+D:\1_R_E_l_i_S\2_ЗАГС - ЕИИС\obj\x86\Release\ЗАГС-ЕИИС.pdb
+D:\1_R_E_l_i_S\2_ЗАГС - ЕИИС\bin\Release\ЗАГС-ЕИИС.exe
+D:\1_R_E_l_i_S\2_ЗАГС - ЕИИС\bin\Release\ЗАГС-ЕИИС.pdb
+D:\1_R_E_l_i_S\2_ЗАГС - ЕИИС\obj\x86\Release\ОтчетыHyTech.Form1.resources
+D:\1_R_E_l_i_S\2_ЗАГС - ЕИИС\obj\x86\Release\ОтчетыHyTech.Form2.resources
+D:\1_R_E_l_i_S\2_ЗАГС - ЕИИС\obj\x86\Release\ОтчетыHyTech.Properties.Resources.resources
+D:\1_R_E_l_i_S\2_ЗАГС - ЕИИС\obj\x86\Release\ЗАГС.csproj.GenerateResource.Cache
+C:\Users\ПисьменныйВБ\Desktop\2_ЗАГС - ЕИИС\bin\Release\ЗАГС-ЕИИС.exe.config
+C:\Users\ПисьменныйВБ\Desktop\2_ЗАГС - ЕИИС\obj\x86\Release\ЗАГС.csproj.ResolveComReference.cache
+C:\Users\ПисьменныйВБ\Desktop\2_ЗАГС - ЕИИС\obj\x86\Release\ЗАГС-ЕИИС.exe
+C:\Users\ПисьменныйВБ\Desktop\2_ЗАГС - ЕИИС\obj\x86\Release\ЗАГС-ЕИИС.pdb
+C:\Users\ПисьменныйВБ\Desktop\2_ЗАГС - ЕИИС\bin\Release\ЗАГС-ЕИИС.exe
+C:\Users\ПисьменныйВБ\Desktop\2_ЗАГС - ЕИИС\bin\Release\ЗАГС-ЕИИС.pdb
+C:\Users\ПисьменныйВБ\Desktop\2_ЗАГС - ЕИИС\obj\x86\Release\ЗАГС.csprojResolveAssemblyReference.cache
+C:\Users\ПисьменныйВБ\Desktop\2_ЗАГС - ЕИИС\obj\x86\Release\ОтчетыHyTech.Form1.resources
+C:\Users\ПисьменныйВБ\Desktop\2_ЗАГС - ЕИИС\obj\x86\Release\ОтчетыHyTech.Form2.resources
+C:\Users\ПисьменныйВБ\Desktop\2_ЗАГС - ЕИИС\obj\x86\Release\ОтчетыHyTech.Properties.Resources.resources
+C:\Users\ПисьменныйВБ\Desktop\2_ЗАГС - ЕИИС\obj\x86\Release\ЗАГС.csproj.GenerateResource.Cache

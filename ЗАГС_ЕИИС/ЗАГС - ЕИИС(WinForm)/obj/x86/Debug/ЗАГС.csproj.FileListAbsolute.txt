@@ -1,0 +1,30 @@
+D:\7_DEVELOP\7_C#\!__ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\bin\Debug\ЗАГС-ЕИИС.exe.config
+D:\7_DEVELOP\7_C#\!__ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\x86\Debug\ЗАГС.csproj.ResolveComReference.cache
+D:\7_DEVELOP\7_C#\!__ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\x86\Debug\ЗАГС-ЕИИС.exe
+D:\7_DEVELOP\7_C#\!__ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\x86\Debug\ЗАГС-ЕИИС.pdb
+D:\7_DEVELOP\7_C#\!__ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\bin\Debug\ЗАГС-ЕИИС.exe
+D:\7_DEVELOP\7_C#\!__ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\bin\Debug\ЗАГС-ЕИИС.pdb
+D:\7_DEVELOP\7_C#\!__ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\x86\Debug\ОтчетыHyTech.Form1.resources
+D:\7_DEVELOP\7_C#\!__ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\x86\Debug\ОтчетыHyTech.Form2.resources
+D:\7_DEVELOP\7_C#\!__ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\x86\Debug\ОтчетыHyTech.Properties.Resources.resources
+D:\7_DEVELOP\7_C#\!__ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\x86\Debug\ЗАГС.csproj.GenerateResource.Cache
+D:\7_DEVELOP\7_C#\ЗАГС-ЕИИС\bin\Debug\ЗАГС-ЕИИС.exe.config
+D:\7_DEVELOP\7_C#\ЗАГС-ЕИИС\obj\x86\Debug\ЗАГС.csproj.ResolveComReference.cache
+D:\7_DEVELOP\7_C#\ЗАГС-ЕИИС\obj\x86\Debug\ЗАГС-ЕИИС.exe
+D:\7_DEVELOP\7_C#\ЗАГС-ЕИИС\obj\x86\Debug\ЗАГС-ЕИИС.pdb
+D:\7_DEVELOP\7_C#\ЗАГС-ЕИИС\obj\x86\Debug\ОтчетыHyTech.Form1.resources
+D:\7_DEVELOP\7_C#\ЗАГС-ЕИИС\obj\x86\Debug\ОтчетыHyTech.Form2.resources
+D:\7_DEVELOP\7_C#\ЗАГС-ЕИИС\obj\x86\Debug\ОтчетыHyTech.Properties.Resources.resources
+D:\7_DEVELOP\7_C#\ЗАГС-ЕИИС\obj\x86\Debug\ЗАГС.csproj.GenerateResource.Cache
+D:\7_DEVELOP\7_C#\ЗАГС-ЕИИС\bin\Debug\ЗАГС-ЕИИС.exe
+D:\7_DEVELOP\7_C#\ЗАГС-ЕИИС\bin\Debug\ЗАГС-ЕИИС.pdb
+D:\1_Relis\2__ЗАГС - ЕИИС\bin\Debug\ЗАГС-ЕИИС.exe.config
+D:\1_Relis\2__ЗАГС - ЕИИС\obj\x86\Debug\ЗАГС.csproj.ResolveComReference.cache
+D:\1_Relis\2__ЗАГС - ЕИИС\obj\x86\Debug\ЗАГС-ЕИИС.exe
+D:\1_Relis\2__ЗАГС - ЕИИС\obj\x86\Debug\ЗАГС-ЕИИС.pdb
+D:\1_Relis\2__ЗАГС - ЕИИС\bin\Debug\ЗАГС-ЕИИС.exe
+D:\1_Relis\2__ЗАГС - ЕИИС\bin\Debug\ЗАГС-ЕИИС.pdb
+D:\1_Relis\2__ЗАГС - ЕИИС\obj\x86\Debug\ОтчетыHyTech.Form1.resources
+D:\1_Relis\2__ЗАГС - ЕИИС\obj\x86\Debug\ОтчетыHyTech.Form2.resources
+D:\1_Relis\2__ЗАГС - ЕИИС\obj\x86\Debug\ОтчетыHyTech.Properties.Resources.resources
+D:\1_Relis\2__ЗАГС - ЕИИС\obj\x86\Debug\ЗАГС.csproj.GenerateResource.Cache

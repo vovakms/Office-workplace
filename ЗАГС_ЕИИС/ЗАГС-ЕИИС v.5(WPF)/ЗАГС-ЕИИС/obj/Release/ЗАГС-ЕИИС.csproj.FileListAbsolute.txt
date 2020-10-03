@@ -1,0 +1,75 @@
+C:\Users\ПисьменныйВБ\Desktop\15_C#WPF_ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\bin\Release\ЗАГС-ЕИИС.exe.config
+C:\Users\ПисьменныйВБ\Desktop\15_C#WPF_ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\Release\ЗАГС-ЕИИС.exe
+C:\Users\ПисьменныйВБ\Desktop\15_C#WPF_ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\Release\ЗАГС-ЕИИС.pdb
+C:\Users\ПисьменныйВБ\Desktop\15_C#WPF_ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\Release\ЗАГС-ЕИИС.csprojResolveAssemblyReference.cache
+C:\Users\ПисьменныйВБ\Desktop\15_C#WPF_ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\Release\MainWindow.g.cs
+C:\Users\ПисьменныйВБ\Desktop\15_C#WPF_ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\Release\Window1.g.cs
+C:\Users\ПисьменныйВБ\Desktop\15_C#WPF_ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\Release\App.g.cs
+C:\Users\ПисьменныйВБ\Desktop\15_C#WPF_ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\Release\ЗАГС-ЕИИС_Content.g.cs
+C:\Users\ПисьменныйВБ\Desktop\15_C#WPF_ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\Release\ЗАГС-ЕИИС_MarkupCompile.cache
+C:\Users\ПисьменныйВБ\Desktop\15_C#WPF_ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\Release\ЗАГС-ЕИИС_MarkupCompile.lref
+C:\Users\ПисьменныйВБ\Desktop\15_C#WPF_ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\bin\Release\ЗАГС-ЕИИС.exe.manifest
+C:\Users\ПисьменныйВБ\Desktop\15_C#WPF_ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\bin\Release\ЗАГС-ЕИИС.application
+C:\Users\ПисьменныйВБ\Desktop\15_C#WPF_ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\bin\Release\ЗАГС-ЕИИС.exe
+C:\Users\ПисьменныйВБ\Desktop\15_C#WPF_ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\bin\Release\ЗАГС-ЕИИС.pdb
+C:\Users\ПисьменныйВБ\Desktop\15_C#WPF_ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\Release\MainWindow.baml
+C:\Users\ПисьменныйВБ\Desktop\15_C#WPF_ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\Release\Window1.baml
+C:\Users\ПисьменныйВБ\Desktop\15_C#WPF_ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\Release\ЗАГС-ЕИИС.g.resources
+C:\Users\ПисьменныйВБ\Desktop\15_C#WPF_ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\Release\ЗАГС_ЕИИС.Properties.Resources.resources
+C:\Users\ПисьменныйВБ\Desktop\15_C#WPF_ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\Release\ЗАГС-ЕИИС.csproj.GenerateResource.Cache
+C:\Users\ПисьменныйВБ\Desktop\15_C#WPF_ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\Release\ЗАГС-ЕИИС.exe.manifest
+C:\Users\ПисьменныйВБ\Desktop\15_C#WPF_ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\Release\ЗАГС-ЕИИС.application
+C:\Users\ПисьменныйВБ\Desktop\ЗАГС-ЕИИС\ЗАГС-ЕИИС\bin\Release\ЗАГС-ЕИИС.exe.config
+C:\Users\ПисьменныйВБ\Desktop\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\Release\ЗАГС-ЕИИС.exe
+C:\Users\ПисьменныйВБ\Desktop\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\Release\ЗАГС-ЕИИС.pdb
+C:\Users\ПисьменныйВБ\Desktop\ЗАГС-ЕИИС\ЗАГС-ЕИИС\bin\Release\ЗАГС-ЕИИС.exe.manifest
+C:\Users\ПисьменныйВБ\Desktop\ЗАГС-ЕИИС\ЗАГС-ЕИИС\bin\Release\ЗАГС-ЕИИС.application
+C:\Users\ПисьменныйВБ\Desktop\ЗАГС-ЕИИС\ЗАГС-ЕИИС\bin\Release\ЗАГС-ЕИИС.exe
+C:\Users\ПисьменныйВБ\Desktop\ЗАГС-ЕИИС\ЗАГС-ЕИИС\bin\Release\ЗАГС-ЕИИС.pdb
+C:\Users\ПисьменныйВБ\Desktop\ЗАГС-ЕИИС\ЗАГС-ЕИИС\bin\Release\ActiproSoftware.Ribbon.Wpf.dll
+C:\Users\ПисьменныйВБ\Desktop\ЗАГС-ЕИИС\ЗАГС-ЕИИС\bin\Release\ActiproSoftware.Shared.Wpf.dll
+C:\Users\ПисьменныйВБ\Desktop\ЗАГС-ЕИИС\ЗАГС-ЕИИС\bin\Release\ActiproSoftware.Ribbon.Wpf.xml
+C:\Users\ПисьменныйВБ\Desktop\ЗАГС-ЕИИС\ЗАГС-ЕИИС\bin\Release\ActiproSoftware.Shared.Wpf.xml
+C:\Users\ПисьменныйВБ\Desktop\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\Release\ЗАГС-ЕИИС.csprojResolveAssemblyReference.cache
+C:\Users\ПисьменныйВБ\Desktop\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\Release\MainWindow.g.cs
+C:\Users\ПисьменныйВБ\Desktop\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\Release\Window1.g.cs
+C:\Users\ПисьменныйВБ\Desktop\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\Release\App.g.cs
+C:\Users\ПисьменныйВБ\Desktop\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\Release\ЗАГС-ЕИИС_Content.g.cs
+C:\Users\ПисьменныйВБ\Desktop\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\Release\ЗАГС-ЕИИС_MarkupCompile.cache
+C:\Users\ПисьменныйВБ\Desktop\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\Release\ЗАГС-ЕИИС_MarkupCompile.lref
+C:\Users\ПисьменныйВБ\Desktop\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\Release\MainWindow.baml
+C:\Users\ПисьменныйВБ\Desktop\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\Release\Window1.baml
+C:\Users\ПисьменныйВБ\Desktop\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\Release\ЗАГС-ЕИИС.g.resources
+C:\Users\ПисьменныйВБ\Desktop\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\Release\ЗАГС_ЕИИС.Properties.Resources.resources
+C:\Users\ПисьменныйВБ\Desktop\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\Release\ЗАГС-ЕИИС.csproj.GenerateResource.Cache
+C:\Users\ПисьменныйВБ\Desktop\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\Release\ЗАГС-ЕИИС.exe.manifest
+C:\Users\ПисьменныйВБ\Desktop\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\Release\ЗАГС-ЕИИС.application
+C:\Users\ПисьменныйВБ\Desktop\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\Release\Window2.g.cs
+C:\Users\ПисьменныйВБ\Desktop\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\Release\Window2.baml
+C:\Users\ПисьменныйВБ\Desktop\ЗАГС-ЕИИС v.5\ЗАГС-ЕИИС\bin\Release\ЗАГС-ЕИИС.exe.config
+C:\Users\ПисьменныйВБ\Desktop\ЗАГС-ЕИИС v.5\ЗАГС-ЕИИС\bin\Release\ЗАГС-ЕИИС.exe.manifest
+C:\Users\ПисьменныйВБ\Desktop\ЗАГС-ЕИИС v.5\ЗАГС-ЕИИС\bin\Release\ЗАГС-ЕИИС.application
+C:\Users\ПисьменныйВБ\Desktop\ЗАГС-ЕИИС v.5\ЗАГС-ЕИИС\bin\Release\ЗАГС-ЕИИС.exe
+C:\Users\ПисьменныйВБ\Desktop\ЗАГС-ЕИИС v.5\ЗАГС-ЕИИС\bin\Release\ЗАГС-ЕИИС.pdb
+C:\Users\ПисьменныйВБ\Desktop\ЗАГС-ЕИИС v.5\ЗАГС-ЕИИС\bin\Release\ActiproSoftware.Ribbon.Wpf.dll
+C:\Users\ПисьменныйВБ\Desktop\ЗАГС-ЕИИС v.5\ЗАГС-ЕИИС\bin\Release\ActiproSoftware.Shared.Wpf.dll
+C:\Users\ПисьменныйВБ\Desktop\ЗАГС-ЕИИС v.5\ЗАГС-ЕИИС\bin\Release\ActiproSoftware.Ribbon.Wpf.xml
+C:\Users\ПисьменныйВБ\Desktop\ЗАГС-ЕИИС v.5\ЗАГС-ЕИИС\bin\Release\ActiproSoftware.Shared.Wpf.xml
+C:\Users\ПисьменныйВБ\Desktop\ЗАГС-ЕИИС v.5\ЗАГС-ЕИИС\obj\Release\MainWindow.g.cs
+C:\Users\ПисьменныйВБ\Desktop\ЗАГС-ЕИИС v.5\ЗАГС-ЕИИС\obj\Release\Window1.g.cs
+C:\Users\ПисьменныйВБ\Desktop\ЗАГС-ЕИИС v.5\ЗАГС-ЕИИС\obj\Release\Window2.g.cs
+C:\Users\ПисьменныйВБ\Desktop\ЗАГС-ЕИИС v.5\ЗАГС-ЕИИС\obj\Release\App.g.cs
+C:\Users\ПисьменныйВБ\Desktop\ЗАГС-ЕИИС v.5\ЗАГС-ЕИИС\obj\Release\ЗАГС-ЕИИС_Content.g.cs
+C:\Users\ПисьменныйВБ\Desktop\ЗАГС-ЕИИС v.5\ЗАГС-ЕИИС\obj\Release\ЗАГС-ЕИИС_MarkupCompile.cache
+C:\Users\ПисьменныйВБ\Desktop\ЗАГС-ЕИИС v.5\ЗАГС-ЕИИС\obj\Release\ЗАГС-ЕИИС_MarkupCompile.lref
+C:\Users\ПисьменныйВБ\Desktop\ЗАГС-ЕИИС v.5\ЗАГС-ЕИИС\obj\Release\MainWindow.baml
+C:\Users\ПисьменныйВБ\Desktop\ЗАГС-ЕИИС v.5\ЗАГС-ЕИИС\obj\Release\Window1.baml
+C:\Users\ПисьменныйВБ\Desktop\ЗАГС-ЕИИС v.5\ЗАГС-ЕИИС\obj\Release\Window2.baml
+C:\Users\ПисьменныйВБ\Desktop\ЗАГС-ЕИИС v.5\ЗАГС-ЕИИС\obj\Release\ЗАГС-ЕИИС.g.resources
+C:\Users\ПисьменныйВБ\Desktop\ЗАГС-ЕИИС v.5\ЗАГС-ЕИИС\obj\Release\ЗАГС_ЕИИС.Properties.Resources.resources
+C:\Users\ПисьменныйВБ\Desktop\ЗАГС-ЕИИС v.5\ЗАГС-ЕИИС\obj\Release\ЗАГС-ЕИИС.csproj.GenerateResource.Cache
+C:\Users\ПисьменныйВБ\Desktop\ЗАГС-ЕИИС v.5\ЗАГС-ЕИИС\obj\Release\ЗАГС-ЕИИС.exe.manifest
+C:\Users\ПисьменныйВБ\Desktop\ЗАГС-ЕИИС v.5\ЗАГС-ЕИИС\obj\Release\ЗАГС-ЕИИС.application
+C:\Users\ПисьменныйВБ\Desktop\ЗАГС-ЕИИС v.5\ЗАГС-ЕИИС\obj\Release\ЗАГС-ЕИИС.exe
+C:\Users\ПисьменныйВБ\Desktop\ЗАГС-ЕИИС v.5\ЗАГС-ЕИИС\obj\Release\ЗАГС-ЕИИС.pdb
+C:\Users\ПисьменныйВБ\Desktop\ЗАГС-ЕИИС v.5\ЗАГС-ЕИИС\obj\Release\ЗАГС-ЕИИС.csprojResolveAssemblyReference.cache
