@@ -1,0 +1,33 @@
+C:\Users\ПисьменныйВБ\AppData\Local\Temporary Projects\ВыпискиМНСизЕИИС\bin\Debug\ВыпискиМНСизЕИИС.exe.config
+C:\Users\ПисьменныйВБ\AppData\Local\Temporary Projects\ВыпискиМНСизЕИИС\bin\Debug\ВыпискиМНСизЕИИС.exe
+C:\Users\ПисьменныйВБ\AppData\Local\Temporary Projects\ВыпискиМНСизЕИИС\bin\Debug\ВыпискиМНСизЕИИС.pdb
+C:\Users\ПисьменныйВБ\AppData\Local\Temporary Projects\ВыпискиМНСизЕИИС\obj\x86\Debug\ВыпискиМНСизЕИИС.Form1.resources
+C:\Users\ПисьменныйВБ\AppData\Local\Temporary Projects\ВыпискиМНСизЕИИС\obj\x86\Debug\ВыпискиМНСизЕИИС.Form2.resources
+C:\Users\ПисьменныйВБ\AppData\Local\Temporary Projects\ВыпискиМНСизЕИИС\obj\x86\Debug\ВыпискиМНСизЕИИС.Properties.Resources.resources
+C:\Users\ПисьменныйВБ\AppData\Local\Temporary Projects\ВыпискиМНСизЕИИС\obj\x86\Debug\ВыпискиМНСизЕИИС.csproj.GenerateResource.Cache
+C:\Users\ПисьменныйВБ\AppData\Local\Temporary Projects\ВыпискиМНСизЕИИС\obj\x86\Debug\ВыпискиМНСизЕИИС.exe
+C:\Users\ПисьменныйВБ\AppData\Local\Temporary Projects\ВыпискиМНСизЕИИС\obj\x86\Debug\ВыпискиМНСизЕИИС.pdb
+C:\Users\ПисьменныйВБ\Desktop\C#_XML\ВыпискиМНСизЕИИС\ВыпискиМНСизЕИИС\bin\Debug\ВыпискиМНСизЕИИС.exe.config
+C:\Users\ПисьменныйВБ\Desktop\C#_XML\ВыпискиМНСизЕИИС\ВыпискиМНСизЕИИС\obj\x86\Debug\ВыпискиМНСизЕИИС.exe
+C:\Users\ПисьменныйВБ\Desktop\C#_XML\ВыпискиМНСизЕИИС\ВыпискиМНСизЕИИС\obj\x86\Debug\ВыпискиМНСизЕИИС.pdb
+C:\Users\ПисьменныйВБ\Desktop\C#_XML\ВыпискиМНСизЕИИС\ВыпискиМНСизЕИИС\bin\Debug\ВыпискиМНСизЕИИС.exe
+C:\Users\ПисьменныйВБ\Desktop\C#_XML\ВыпискиМНСизЕИИС\ВыпискиМНСизЕИИС\bin\Debug\ВыпискиМНСизЕИИС.pdb
+C:\Users\ПисьменныйВБ\Desktop\C#_XML\ВыпискиМНСизЕИИС\ВыпискиМНСизЕИИС\obj\x86\Debug\ВыпискиМНСизЕИИС.Form1.resources
+C:\Users\ПисьменныйВБ\Desktop\C#_XML\ВыпискиМНСизЕИИС\ВыпискиМНСизЕИИС\obj\x86\Debug\ВыпискиМНСизЕИИС.Form2.resources
+C:\Users\ПисьменныйВБ\Desktop\C#_XML\ВыпискиМНСизЕИИС\ВыпискиМНСизЕИИС\obj\x86\Debug\ВыпискиМНСизЕИИС.Properties.Resources.resources
+C:\Users\ПисьменныйВБ\Desktop\C#_XML\ВыпискиМНСизЕИИС\ВыпискиМНСизЕИИС\obj\x86\Debug\ВыпискиМНСизЕИИС.csproj.GenerateResource.Cache
+C:\Users\ПисьменныйВБ\Desktop\C#_XML\ВыпискиМНСизЕИИС\ВыпискиМНСизЕИИС\obj\x86\Debug\ВыпискиМНСизЕИИС.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\C#_XML\ВыпискиМНСизЕИИС\ВыпискиМНСизЕИИС\bin\Debug\ВыпискиМНСизЕИИС.exe.config
+C:\Users\Admin\Desktop\C#_XML\ВыпискиМНСизЕИИС\ВыпискиМНСизЕИИС\obj\x86\Debug\ВыпискиМНСизЕИИС.exe
+C:\Users\Admin\Desktop\C#_XML\ВыпискиМНСизЕИИС\ВыпискиМНСизЕИИС\obj\x86\Debug\ВыпискиМНСизЕИИС.pdb
+C:\Users\Admin\Desktop\C#_XML\ВыпискиМНСизЕИИС\ВыпискиМНСизЕИИС\bin\Debug\ВыпискиМНСизЕИИС.exe
+C:\Users\Admin\Desktop\C#_XML\ВыпискиМНСизЕИИС\ВыпискиМНСизЕИИС\bin\Debug\ВыпискиМНСизЕИИС.pdb
+C:\Users\Admin\Desktop\C#_XML\ВыпискиМНСизЕИИС\ВыпискиМНСизЕИИС\obj\x86\Debug\ВыпискиМНСизЕИИС.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\C#_XML\ВыпискиМНСизЕИИС\ВыпискиМНСизЕИИС\obj\x86\Debug\ВыпискиМНСизЕИИС.Form1.resources
+C:\Users\Admin\Desktop\C#_XML\ВыпискиМНСизЕИИС\ВыпискиМНСизЕИИС\obj\x86\Debug\ВыпискиМНСизЕИИС.Form2.resources
+C:\Users\Admin\Desktop\C#_XML\ВыпискиМНСизЕИИС\ВыпискиМНСизЕИИС\obj\x86\Debug\ВыпискиМНСизЕИИС.Properties.Resources.resources
+C:\Users\Admin\Desktop\C#_XML\ВыпискиМНСизЕИИС\ВыпискиМНСизЕИИС\obj\x86\Debug\ВыпискиМНСизЕИИС.csproj.GenerateResource.Cache
+C:\Users\ПисьменныйВБ\Desktop\C#_XML\ВыпискиМНСизЕИИС\ВыпискиМНСизЕИИС\obj\x86\Debug\ВыпискиМНСизЕИИС.Form3.resources
+C:\Users\Admin\Desktop\C#_XML\ВыпискиМНС\ВыпискиМНСизЕИИС\bin\Debug\ВыпискиМНСизЕИИС.exe.config
+C:\Users\Admin\Desktop\C#_XML\ВыпискиМНС\ВыпискиМНСизЕИИС\obj\x86\Debug\ВыпискиМНСизЕИИС.exe
+C:\Users\Admin\Desktop\C#_XML\ВыпискиМНС\ВыпискиМНСизЕИИС\obj\x86\Debug\ВыпискиМНСизЕИИС.pdb
