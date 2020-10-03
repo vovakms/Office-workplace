@@ -1,0 +1,45 @@
+C:\Users\ПисьменныйВБ\AppData\Local\Temporary Projects\СистемаОтчетов\bin\Debug\СистемаОтчетов.exe
+C:\Users\ПисьменныйВБ\AppData\Local\Temporary Projects\СистемаОтчетов\bin\Debug\СистемаОтчетов.pdb
+C:\Users\ПисьменныйВБ\AppData\Local\Temporary Projects\СистемаОтчетов\obj\x86\Debug\СистемаОтчетов.Form1.resources
+C:\Users\ПисьменныйВБ\AppData\Local\Temporary Projects\СистемаОтчетов\obj\x86\Debug\СистемаОтчетов.Properties.Resources.resources
+C:\Users\ПисьменныйВБ\AppData\Local\Temporary Projects\СистемаОтчетов\obj\x86\Debug\СистемаОтчетов.csproj.GenerateResource.Cache
+C:\Users\ПисьменныйВБ\AppData\Local\Temporary Projects\СистемаОтчетов\obj\x86\Debug\СистемаОтчетов.exe
+C:\Users\ПисьменныйВБ\AppData\Local\Temporary Projects\СистемаОтчетов\obj\x86\Debug\СистемаОтчетов.pdb
+D:\1_Relis\!_СистемаОтчетов\СистемаОтчетов\СистемаОтчетов\obj\x86\Debug\СистемаОтчетов.exe
+D:\1_Relis\!_СистемаОтчетов\СистемаОтчетов\СистемаОтчетов\obj\x86\Debug\СистемаОтчетов.pdb
+D:\1_Relis\!_СистемаОтчетов\СистемаОтчетов\СистемаОтчетов\bin\Debug\СистемаОтчетов.exe
+D:\1_Relis\!_СистемаОтчетов\СистемаОтчетов\СистемаОтчетов\bin\Debug\СистемаОтчетов.pdb
+D:\1_Relis\!_СистемаОтчетов\СистемаОтчетов\СистемаОтчетов\obj\x86\Debug\СистемаОтчетов.Form1.resources
+D:\1_Relis\!_СистемаОтчетов\СистемаОтчетов\СистемаОтчетов\obj\x86\Debug\СистемаОтчетов.Properties.Resources.resources
+D:\1_Relis\!_СистемаОтчетов\СистемаОтчетов\СистемаОтчетов\obj\x86\Debug\СистемаОтчетов.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\СистемаОтчетов\СистемаОтчетов\obj\x86\Debug\СистемаОтчетов.exe
+C:\Users\Admin\Desktop\СистемаОтчетов\СистемаОтчетов\obj\x86\Debug\СистемаОтчетов.pdb
+C:\Users\Admin\Desktop\СистемаОтчетов\СистемаОтчетов\obj\x86\Debug\СистемаОтчетов.Form1.resources
+C:\Users\Admin\Desktop\СистемаОтчетов\СистемаОтчетов\obj\x86\Debug\СистемаОтчетов.Properties.Resources.resources
+C:\Users\Admin\Desktop\СистемаОтчетов\СистемаОтчетов\obj\x86\Debug\СистемаОтчетов.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\СистемаОтчетов\СистемаОтчетов\obj\x86\Debug\СистемаОтчетов.Form2.resources
+C:\Users\Admin\Desktop\СистемаОтчетов\СистемаОтчетов\bin\Debug\СистемаОтчетов.exe.config
+C:\Users\Admin\Desktop\СистемаОтчетов\СистемаОтчетов\bin\Debug\СистемаОтчетов.exe
+C:\Users\Admin\Desktop\СистемаОтчетов\СистемаОтчетов\bin\Debug\СистемаОтчетов.pdb
+C:\Users\Admin\Desktop\СистемаОтчетов\СистемаОтчетов\obj\x86\Debug\СистемаОтчетов.csprojResolveAssemblyReference.cache
+D:\1_Relis\!_СистемаОтчетов\СистемаОтчетов\bin\Debug\СистемаОтчетов.exe.config
+D:\1_Relis\!_СистемаОтчетов\СистемаОтчетов\obj\x86\Debug\СистемаОтчетов.exe
+D:\1_Relis\!_СистемаОтчетов\СистемаОтчетов\obj\x86\Debug\СистемаОтчетов.pdb
+D:\1_Relis\!_СистемаОтчетов\СистемаОтчетов\bin\Debug\СистемаОтчетов.exe
+D:\1_Relis\!_СистемаОтчетов\СистемаОтчетов\bin\Debug\СистемаОтчетов.pdb
+D:\1_Relis\!_СистемаОтчетов\СистемаОтчетов\obj\x86\Debug\СистемаОтчетов.csprojResolveAssemblyReference.cache
+D:\1_Relis\!_СистемаОтчетов\СистемаОтчетов\obj\x86\Debug\СистемаОтчетов.Form1.resources
+D:\1_Relis\!_СистемаОтчетов\СистемаОтчетов\obj\x86\Debug\СистемаОтчетов.Form2.resources
+D:\1_Relis\!_СистемаОтчетов\СистемаОтчетов\obj\x86\Debug\СистемаОтчетов.Properties.Resources.resources
+D:\1_Relis\!_СистемаОтчетов\СистемаОтчетов\obj\x86\Debug\СистемаОтчетов.csproj.GenerateResource.Cache
+Y:\GitHub\SysRep\SysRep\СистемаОтчетов\bin\Debug\СистемаОтчетов.exe.config
+Y:\GitHub\SysRep\SysRep\СистемаОтчетов\bin\Debug\СистемаОтчетов.exe
+Y:\GitHub\SysRep\SysRep\СистемаОтчетов\bin\Debug\СистемаОтчетов.pdb
+Y:\GitHub\SysRep\SysRep\СистемаОтчетов\obj\x86\Debug\СистемаОтчетов.csprojAssemblyReference.cache
+Y:\GitHub\SysRep\SysRep\СистемаОтчетов\obj\x86\Debug\СистемаОтчетов.Form1.resources
+Y:\GitHub\SysRep\SysRep\СистемаОтчетов\obj\x86\Debug\СистемаОтчетов.Form2.resources
+Y:\GitHub\SysRep\SysRep\СистемаОтчетов\obj\x86\Debug\СистемаОтчетов.Properties.Resources.resources
+Y:\GitHub\SysRep\SysRep\СистемаОтчетов\obj\x86\Debug\СистемаОтчетов.csproj.GenerateResource.cache
+Y:\GitHub\SysRep\SysRep\СистемаОтчетов\obj\x86\Debug\СистемаОтчетов.csproj.CoreCompileInputs.cache
+Y:\GitHub\SysRep\SysRep\СистемаОтчетов\obj\x86\Debug\СистемаОтчетов.exe
+Y:\GitHub\SysRep\SysRep\СистемаОтчетов\obj\x86\Debug\СистемаОтчетов.pdb
