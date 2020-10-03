@@ -1,0 +1,192 @@
+﻿<Window x:Name="Window1" x:Class="ЗАГС_ЕИИС.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ЗАГС_ЕИИС"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="561" Width="1105" WindowStyle="None" Foreground="{x:Null}" Background="Black" Loaded="Window1_Loaded">
+    <Grid x:Name="Grid1">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition x:Name="col0" Width="428*"/>
+            <ColumnDefinition Width="6*"/>
+            <ColumnDefinition Width="663*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="289*"/>
+            <RowDefinition Height="5*"/>
+            <RowDefinition Height="215*"/>
+        </Grid.RowDefinitions>
+        <Menu x:Name="menu1" Height="20" VerticalAlignment="Top" HorizontalAlignment="Left" Width="209">
+            <Menu.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFF7F3CD" Offset="0"/>
+                    <GradientStop Color="#FFEEDA12" Offset="1"/>
+                </LinearGradientBrush>
+            </Menu.Background>
+            <MenuItem Header="Файл" Margin="0" FontWeight="Bold" Width="47">
+                <MenuItem Header="Выход" HorizontalAlignment="Left" Width="93"/>
+            </MenuItem>
+            <MenuItem x:Name="menuItem2" Header="Сервис" Margin="0" FontWeight="Bold" Width="58">
+                <MenuItem x:Name="menuItem21" Header="Настройки ODBC" Click="menuItem21_Click" OpacityMask="Black" Background="#FFA1DDF3" Margin="0,0,-7,0"/>
+                <Separator HorizontalAlignment="Left" Height="13" Margin="0" Width="115" Background="#FFABEBF5"/>
+                <MenuItem Header="Настройки Реквизитов " HorizontalAlignment="Left" Width="141" Margin="0,0,-16,0" Click="MenuItem_Click"/>
+            </MenuItem>
+            <MenuItem Header="Справка" Margin="0" FontWeight="Bold" Width="62">
+                <MenuItem Header="О программе" HorizontalAlignment="Left" Width="93"/>
+            </MenuItem>
+        </Menu>
+        <Menu x:Name="menu1_Copy" Height="20" VerticalAlignment="Top" Margin="209,0,1,0" Grid.ColumnSpan="3" PreviewMouseLeftButtonDown="menu1_Copy_PreviewMouseLeftButtonDown">
+            <Menu.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="1,0">
+                    <GradientStop Color="#FFF7F3CD" Offset="0"/>
+                    <GradientStop Color="#FFEEDA12" Offset="1"/>
+                </LinearGradientBrush>
+            </Menu.Background>
+        </Menu>
+        <StatusBar x:Name="StatusBar1" Grid.Row="2" Grid.ColumnSpan="3" Height="20" VerticalAlignment="Bottom">
+            <StatusBar.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFE9F30C" Offset="0"/>
+                    <GradientStop Color="#FFF1F3BE" Offset="1"/>
+                </LinearGradientBrush>
+            </StatusBar.Background>
+            <StatusBarItem   >
+                <TextBlock x:Name="TextBlock1" Width="337" FontWeight="Bold" FontSize="13.333" Margin="0,-3,0,0" Foreground="#FF0D5905">
+                    Филиал 11 ФСС РФ "Сверка сведений ЗАГСа"
+                </TextBlock>
+            </StatusBarItem>
+
+        </StatusBar>
+        <GridSplitter x:Name="gridSplitter" Grid.ColumnSpan="3" Height="4" VerticalAlignment="Center" HorizontalAlignment="Stretch" Margin="0,0,0,1" Grid.Row="1"/>
+        <GridSplitter x:Name="gridSplitter1" Margin="0,20,0,0" Width="6" HorizontalAlignment="Center" Grid.Column="1" MouseDoubleClick="gridSplitter1_MouseDoubleClick"/>
+        <TabControl x:Name="tabControl1" Grid.Column="2" Margin="10,25,5,10" FontWeight="Bold"   Background="#FF7AFB7A">
+            <TabItem x:Name="tabItem2" Header="Получатели страховых выплат" Background="#FF9CA0F9">
+                <Grid Background="#FF4EB2EC">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <DataGrid x:Name="dataGrid3" AlternatingRowBackground="#FF8B9EF3" HorizontalGridLinesBrush="#FF4A52F1" VerticalGridLinesBrush="#FF443CEA" Margin="0,34">
+                        <DataGrid.Resources>
+                            <Style TargetType="{x:Type DataGridColumnHeader}">
+                                <Setter Property="Background" Value="#FF9CA0F9" />
+                            </Style>
+                        </DataGrid.Resources>
+                        <DataGrid.Background>
+                            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                <GradientStop Color="#FF53C3F7" Offset="0"/>
+                                <GradientStop Color="#FFD8E5EC" Offset="1"/>
+                            </LinearGradientBrush>
+                        </DataGrid.Background>
+
+                        <DataGrid.RowBackground>
+                            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                <GradientStop Color="#FF9CC9F7" Offset="0"/>
+                                <GradientStop Color="White" Offset="1"/>
+                            </LinearGradientBrush>
+                        </DataGrid.RowBackground>
+                    </DataGrid>
+                    <Button Content="Показать список &quot;Получателей страховых выплат&quot;" Height="22" HorizontalAlignment="Left" Margin="6,6,0,0" Name="button5" VerticalAlignment="Top" Width="300" Click="button5_Click" />
+                    <Button x:Name="button7" Content="С В Е Р И Т ь" Margin="0,0,6,6" Background="#FF9CA0F9" FontWeight="Bold" FontSize="13.333" Click="button7_Click" Height="22" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="193" />
+                    <Label Content="Кол-во" Height="28" HorizontalAlignment="Left" Margin="2,0,0,0" Name="label4" VerticalAlignment="Bottom" Width="234" />
+                </Grid>
+            </TabItem>
+            <TabItem x:Name="tabItem3" Header="Заявки льготников       " Margin="25,0,2,0" Background="#FF7AFB7A">
+                <Grid Background="#FF5AF142">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <DataGrid x:Name="dataGrid4" Background="#FF7AFB7A" OpacityMask="#FF2BF03D" AlternatingRowBackground="#FF79F573" Margin="0,33,0,30">
+
+                        <DataGrid.Resources>
+                            <Style TargetType="{x:Type DataGridColumnHeader}">
+                                <Setter Property="Background" Value="#FF2BF03D" />
+                            </Style>
+                        </DataGrid.Resources>
+                        <DataGrid.RowBackground>
+                            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                <GradientStop Color="#FFC7EEB8" Offset="0"/>
+                                <GradientStop Color="#FFE1FDD6" Offset="1"/>
+                            </LinearGradientBrush>
+                        </DataGrid.RowBackground>
+                    </DataGrid>
+                    <Button Content="Показать список &quot;Заявок льготников&quot;" Height="22" HorizontalAlignment="Left" Margin="228,5,0,0" Name="button6" VerticalAlignment="Top" Width="235" Click="button6_Click" />
+                    <Button Content="Сверить" Height="23" HorizontalAlignment="Right" Margin="0,0,6,3" Name="button8" VerticalAlignment="Bottom" Width="192" Click="button8_Click" />
+                    <Label Content="Кол-во" Height="28" HorizontalAlignment="Left" Margin="9,0,0,0" Name="label5" VerticalAlignment="Bottom" Width="131" />
+                </Grid>
+            </TabItem>
+        </TabControl>
+        <TextBox x:Name="textBox1" Height="23" TextWrapping="Wrap" Text="Выберите Ексель-файл ФГИС ЕГР ЗАГС" VerticalAlignment="Top" Margin="10,25,22,0" FontWeight="Bold"/>
+        <Button x:Name="button1" ToolTipService.InitialShowDelay="0" Content="" VerticalAlignment="Top" Margin="0,25,4,0" HorizontalAlignment="Right" Width="12" Click="button1_Click" Height="23" Background="#FFDF76E4">
+            <Button.ToolTip>
+                <TextBlock x:Name="textBlock"    TextWrapping="Wrap" VerticalAlignment="Top" Width="250" FontSize="13.333"  FontWeight="Bold"><Run Text="   "/><Run/><LineBreak/><Run Text="   "/><Run Text="В  открывшемся  диалоговом "/><Run Text="     "/><LineBreak/><Run Text="   "/><Run Text="окне выберете Екселевские "/><Run Text=" "/><LineBreak/><Run Text="              "/><Run Text="файлы."/><LineBreak/><Run/><LineBreak/><Run/>
+                    <TextBlock.Background>
+                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                            <GradientStop Color="#FFF54F4F" Offset="0"/>
+                            <GradientStop Color="#FFEB82F5" Offset="1"/>
+                        </LinearGradientBrush>
+                    </TextBlock.Background>
+                </TextBlock>
+            </Button.ToolTip>
+        </Button>
+        <Button x:Name="button4" Content="" Grid.Column="2" Margin="0,2,10,0" Click="button4_Click" Height="16" VerticalAlignment="Top" HorizontalAlignment="Right" Width="39">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFF31919" Offset="0"/>
+                    <GradientStop Color="White" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button x:Name="button3" Content="" Grid.Column="2" Height="16" Margin="0,2,54,0" VerticalAlignment="Top" Click="button3_Click" HorizontalAlignment="Right" Width="39">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFEEE30B" Offset="0"/>
+                    <GradientStop Color="White" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button x:Name="button2" Content="" Grid.Column="2" Height="16" Margin="0,2,98,0" VerticalAlignment="Top" Click="button2_Click" HorizontalAlignment="Right" Width="39">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF18F522" Offset="0"/>
+                    <GradientStop Color="White" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Label x:Name="label2" Content="0000" HorizontalAlignment="Left" Margin="10,0,0,7" Foreground="#FFDBE839" FontWeight="Bold" FontSize="16" Height="28" VerticalAlignment="Bottom" Visibility="Hidden" BorderBrush="#FFE5E828" Background="#FF141412" OpacityMask="#E6C6DE42" Width="116" />
+        <Label x:Name="label3" Content="строк" HorizontalAlignment="Left" Margin="132,0,0,7" Foreground="#FFB9C42D" FontSize="13.333" FontWeight="Bold" Height="26" VerticalAlignment="Bottom" Visibility="Hidden" BorderBrush="#FFE5E828" Background="#FF141412" OpacityMask="#E6C6DE42" />
+        <DataGrid x:Name="dataGrid2" HorizontalGridLinesBrush="#FF2DF323" VerticalGridLinesBrush="#FF2DF148" AlternatingRowBackground="#FFEEF7B5" RowBackground="#FFCDF7B9" AutoGeneratingColumn="dataGrid2_AutoGeneratingColumn" BorderBrush="#FFF5E96C" OpacityMask="#FFF59F9F" Margin="12,58,7,32">
+            <DataGrid.Resources>
+                <Style TargetType="{x:Type DataGridColumnHeader}">
+                    <Setter Property="Background" Value="#FFF5E96C" />
+                </Style>
+            </DataGrid.Resources>
+            <DataGrid.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFF0F3B0" Offset="0" />
+                    <GradientStop Color="#FFF9FBD1" Offset="1" />
+                </LinearGradientBrush>
+            </DataGrid.Background>
+        </DataGrid>
+        <DataGrid x:Name="dataGrid5" Margin="12,12,5,53" Grid.Row="2" Grid.ColumnSpan="3" ItemsSource="{Binding}">
+            <DataGrid.Resources>
+                <Style TargetType="{x:Type DataGridColumnHeader}">
+                    <Setter Property="Background" Value="#FFF73535" />
+                </Style>
+            </DataGrid.Resources>
+            <DataGrid.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFF9ABAB" Offset="0" />
+                    <GradientStop Color="White" Offset="1" />
+                </LinearGradientBrush>
+            </DataGrid.Background>
+        </DataGrid>
+        <Button Content="Создать АКТ Проверки" Grid.Column="2" Grid.Row="2" Height="21" HorizontalAlignment="Right" Margin="0,0,5,26" Name="button9" VerticalAlignment="Bottom" Width="381" Click="button9_Click" FontWeight="Bold" Background="#FFF5C6C6" BorderBrush="#FFF54F4F" FontSize="14" />
+        <Label Content="Сверка ФАЙЛА выгруженного с портала ФГИС ЕГР ЗАГС http://smev.fca.fss.ru/uslugi/main.html" Height="28" HorizontalAlignment="Left" Margin="209,-2,0,0" Name="label1" VerticalAlignment="Top" Grid.ColumnSpan="3" Width="502" />
+        <Label Content="Совпадений " Grid.Row="2" Height="28" HorizontalAlignment="Left" Margin="71,0,0,25" Name="label6" VerticalAlignment="Bottom" FontWeight="Bold" Foreground="#FFF56161" Width="145" Grid.Column="2" FontSize="18" />
+        <Label Content="Кол-во " FontSize="18" FontWeight="Bold" Foreground="#FFF56161" Height="28" HorizontalAlignment="Left" Margin="0,0,0,26" Name="label7" VerticalAlignment="Bottom" Width="77" Grid.Row="2" Grid.Column="2" />
+        <Label Background="#FF60F860" Content="Идет сверка" FontFamily="Agency FB" FontSize="170" FontWeight="Bold" Foreground="#FFCB2CB3" Grid.ColumnSpan="3" Height="221" HorizontalAlignment="Left" Margin="0,3,0,0" Name="label10" VerticalAlignment="Top" Visibility="Hidden" Width="1085" Grid.Row="2" />
+        <Label Background="#FF60F860" Content="Идет сверка" FontFamily="Agency FB" FontSize="170" FontWeight="Bold" Foreground="#FFCB2CB3" Height="221" HorizontalAlignment="Left" Margin="-267,263,0,0" Name="label9" VerticalAlignment="Top" Visibility="Hidden" Width="1082" Grid.ColumnSpan="3" Grid.RowSpan="3" />
+        <Label Content="Идет сверка" FontSize="170" FontWeight="Bold" Foreground="#FFCB2CB3" Height="221" HorizontalAlignment="Left" Margin="-62,68,0,0" Name="label8" VerticalAlignment="Top" Width="1075" Visibility="Hidden" FontFamily="Agency FB" Background="#FF60F860" Grid.ColumnSpan="3" Grid.Row="2" />
+    </Grid>
+</Window>

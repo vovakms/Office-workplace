@@ -1,0 +1,116 @@
+C:\Users\Administrator\Desktop\ЗАГС-ЕИИС v.5(WPF)\ЗАГС-ЕИИС\bin\x86\Debug\ЗАГС-ЕИИС.exe.config
+C:\Users\Administrator\Desktop\ЗАГС-ЕИИС v.5(WPF)\ЗАГС-ЕИИС\bin\x86\Debug\ЗАГС-ЕИИС.exe.manifest
+C:\Users\Administrator\Desktop\ЗАГС-ЕИИС v.5(WPF)\ЗАГС-ЕИИС\bin\x86\Debug\ЗАГС-ЕИИС.application
+C:\Users\Administrator\Desktop\ЗАГС-ЕИИС v.5(WPF)\ЗАГС-ЕИИС\bin\x86\Debug\ЗАГС-ЕИИС.exe
+C:\Users\Administrator\Desktop\ЗАГС-ЕИИС v.5(WPF)\ЗАГС-ЕИИС\bin\x86\Debug\ЗАГС-ЕИИС.pdb
+C:\Users\Administrator\Desktop\ЗАГС-ЕИИС v.5(WPF)\ЗАГС-ЕИИС\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\ЗАГС-ЕИИС v.5(WPF)\ЗАГС-ЕИИС\obj\x86\Debug\Window1.g.cs
+C:\Users\Administrator\Desktop\ЗАГС-ЕИИС v.5(WPF)\ЗАГС-ЕИИС\obj\x86\Debug\Window2.g.cs
+C:\Users\Administrator\Desktop\ЗАГС-ЕИИС v.5(WPF)\ЗАГС-ЕИИС\obj\x86\Debug\App.g.cs
+C:\Users\Administrator\Desktop\ЗАГС-ЕИИС v.5(WPF)\ЗАГС-ЕИИС\obj\x86\Debug\ЗАГС-ЕИИС_Content.g.cs
+C:\Users\Administrator\Desktop\ЗАГС-ЕИИС v.5(WPF)\ЗАГС-ЕИИС\obj\x86\Debug\ЗАГС-ЕИИС_MarkupCompile.cache
+C:\Users\Administrator\Desktop\ЗАГС-ЕИИС v.5(WPF)\ЗАГС-ЕИИС\obj\x86\Debug\ЗАГС-ЕИИС_MarkupCompile.lref
+C:\Users\Administrator\Desktop\ЗАГС-ЕИИС v.5(WPF)\ЗАГС-ЕИИС\obj\x86\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\ЗАГС-ЕИИС v.5(WPF)\ЗАГС-ЕИИС\obj\x86\Debug\Window1.baml
+C:\Users\Administrator\Desktop\ЗАГС-ЕИИС v.5(WPF)\ЗАГС-ЕИИС\obj\x86\Debug\Window2.baml
+C:\Users\Administrator\Desktop\ЗАГС-ЕИИС v.5(WPF)\ЗАГС-ЕИИС\obj\x86\Debug\ЗАГС-ЕИИС.g.resources
+C:\Users\Administrator\Desktop\ЗАГС-ЕИИС v.5(WPF)\ЗАГС-ЕИИС\obj\x86\Debug\ЗАГС_ЕИИС.Properties.Resources.resources
+C:\Users\Administrator\Desktop\ЗАГС-ЕИИС v.5(WPF)\ЗАГС-ЕИИС\obj\x86\Debug\ЗАГС-ЕИИС.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\ЗАГС-ЕИИС v.5(WPF)\ЗАГС-ЕИИС\obj\x86\Debug\ЗАГС-ЕИИС.exe.manifest
+C:\Users\Administrator\Desktop\ЗАГС-ЕИИС v.5(WPF)\ЗАГС-ЕИИС\obj\x86\Debug\ЗАГС-ЕИИС.application
+C:\Users\Administrator\Desktop\ЗАГС-ЕИИС v.5(WPF)\ЗАГС-ЕИИС\obj\x86\Debug\ЗАГС-ЕИИС.exe
+C:\Users\Administrator\Desktop\ЗАГС-ЕИИС v.5(WPF)\ЗАГС-ЕИИС\obj\x86\Debug\ЗАГС-ЕИИС.pdb
+C:\Users\ПисьменныйВБ\Desktop\ФГИС ЕГР ЗАГС - ЕИИС v.7\ЗАГС-ЕИИС\bin\x86\Debug\ЗАГС-ЕИИС.exe.config
+C:\Users\ПисьменныйВБ\Desktop\ФГИС ЕГР ЗАГС - ЕИИС v.7\ЗАГС-ЕИИС\obj\x86\Debug\ЗАГС-ЕИИС.exe
+C:\Users\ПисьменныйВБ\Desktop\ФГИС ЕГР ЗАГС - ЕИИС v.7\ЗАГС-ЕИИС\obj\x86\Debug\ЗАГС-ЕИИС.pdb
+C:\Users\ПисьменныйВБ\Desktop\ФГИС ЕГР ЗАГС - ЕИИС v.7\ЗАГС-ЕИИС\bin\x86\Debug\ЗАГС-ЕИИС.exe.manifest
+C:\Users\ПисьменныйВБ\Desktop\ФГИС ЕГР ЗАГС - ЕИИС v.7\ЗАГС-ЕИИС\bin\x86\Debug\ЗАГС-ЕИИС.application
+C:\Users\ПисьменныйВБ\Desktop\ФГИС ЕГР ЗАГС - ЕИИС v.7\ЗАГС-ЕИИС\bin\x86\Debug\ЗАГС-ЕИИС.exe
+C:\Users\ПисьменныйВБ\Desktop\ФГИС ЕГР ЗАГС - ЕИИС v.7\ЗАГС-ЕИИС\bin\x86\Debug\ЗАГС-ЕИИС.pdb
+C:\Users\ПисьменныйВБ\Desktop\ФГИС ЕГР ЗАГС - ЕИИС v.7\ЗАГС-ЕИИС\obj\x86\Debug\MainWindow.g.cs
+C:\Users\ПисьменныйВБ\Desktop\ФГИС ЕГР ЗАГС - ЕИИС v.7\ЗАГС-ЕИИС\obj\x86\Debug\Window1.g.cs
+C:\Users\ПисьменныйВБ\Desktop\ФГИС ЕГР ЗАГС - ЕИИС v.7\ЗАГС-ЕИИС\obj\x86\Debug\Window2.g.cs
+C:\Users\ПисьменныйВБ\Desktop\ФГИС ЕГР ЗАГС - ЕИИС v.7\ЗАГС-ЕИИС\obj\x86\Debug\App.g.cs
+C:\Users\ПисьменныйВБ\Desktop\ФГИС ЕГР ЗАГС - ЕИИС v.7\ЗАГС-ЕИИС\obj\x86\Debug\ЗАГС-ЕИИС_Content.g.cs
+C:\Users\ПисьменныйВБ\Desktop\ФГИС ЕГР ЗАГС - ЕИИС v.7\ЗАГС-ЕИИС\obj\x86\Debug\ЗАГС-ЕИИС_MarkupCompile.cache
+C:\Users\ПисьменныйВБ\Desktop\ФГИС ЕГР ЗАГС - ЕИИС v.7\ЗАГС-ЕИИС\obj\x86\Debug\ЗАГС-ЕИИС_MarkupCompile.lref
+C:\Users\ПисьменныйВБ\Desktop\ФГИС ЕГР ЗАГС - ЕИИС v.7\ЗАГС-ЕИИС\obj\x86\Debug\MainWindow.baml
+C:\Users\ПисьменныйВБ\Desktop\ФГИС ЕГР ЗАГС - ЕИИС v.7\ЗАГС-ЕИИС\obj\x86\Debug\Window1.baml
+C:\Users\ПисьменныйВБ\Desktop\ФГИС ЕГР ЗАГС - ЕИИС v.7\ЗАГС-ЕИИС\obj\x86\Debug\Window2.baml
+C:\Users\ПисьменныйВБ\Desktop\ФГИС ЕГР ЗАГС - ЕИИС v.7\ЗАГС-ЕИИС\obj\x86\Debug\ЗАГС-ЕИИС.g.resources
+C:\Users\ПисьменныйВБ\Desktop\ФГИС ЕГР ЗАГС - ЕИИС v.7\ЗАГС-ЕИИС\obj\x86\Debug\ЗАГС_ЕИИС.Properties.Resources.resources
+C:\Users\ПисьменныйВБ\Desktop\ФГИС ЕГР ЗАГС - ЕИИС v.7\ЗАГС-ЕИИС\obj\x86\Debug\ЗАГС-ЕИИС.csproj.GenerateResource.Cache
+C:\Users\ПисьменныйВБ\Desktop\ФГИС ЕГР ЗАГС - ЕИИС v.7\ЗАГС-ЕИИС\obj\x86\Debug\ЗАГС-ЕИИС.exe.manifest
+C:\Users\ПисьменныйВБ\Desktop\ФГИС ЕГР ЗАГС - ЕИИС v.7\ЗАГС-ЕИИС\obj\x86\Debug\ЗАГС-ЕИИС.application
+C:\Users\Administrator\Desktop\ФГИС ЕГР ЗАГС - ЕИИС v.8\ЗАГС-ЕИИС\bin\x86\Debug\ЗАГС-ЕИИС.exe.config
+C:\Users\Administrator\Desktop\ФГИС ЕГР ЗАГС - ЕИИС v.8\ЗАГС-ЕИИС\obj\x86\Debug\ЗАГС-ЕИИС.exe
+C:\Users\Administrator\Desktop\ФГИС ЕГР ЗАГС - ЕИИС v.8\ЗАГС-ЕИИС\obj\x86\Debug\ЗАГС-ЕИИС.pdb
+C:\Users\Administrator\Desktop\ФГИС ЕГР ЗАГС - ЕИИС v.8\ЗАГС-ЕИИС\bin\x86\Debug\ЗАГС-ЕИИС.exe.manifest
+C:\Users\Administrator\Desktop\ФГИС ЕГР ЗАГС - ЕИИС v.8\ЗАГС-ЕИИС\bin\x86\Debug\ЗАГС-ЕИИС.application
+C:\Users\Administrator\Desktop\ФГИС ЕГР ЗАГС - ЕИИС v.8\ЗАГС-ЕИИС\bin\x86\Debug\ЗАГС-ЕИИС.exe
+C:\Users\Administrator\Desktop\ФГИС ЕГР ЗАГС - ЕИИС v.8\ЗАГС-ЕИИС\bin\x86\Debug\ЗАГС-ЕИИС.pdb
+C:\Users\Administrator\Desktop\ФГИС ЕГР ЗАГС - ЕИИС v.8\ЗАГС-ЕИИС\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\ФГИС ЕГР ЗАГС - ЕИИС v.8\ЗАГС-ЕИИС\obj\x86\Debug\Window1.g.cs
+C:\Users\Administrator\Desktop\ФГИС ЕГР ЗАГС - ЕИИС v.8\ЗАГС-ЕИИС\obj\x86\Debug\Window2.g.cs
+C:\Users\Administrator\Desktop\ФГИС ЕГР ЗАГС - ЕИИС v.8\ЗАГС-ЕИИС\obj\x86\Debug\App.g.cs
+C:\Users\Administrator\Desktop\ФГИС ЕГР ЗАГС - ЕИИС v.8\ЗАГС-ЕИИС\obj\x86\Debug\ЗАГС-ЕИИС_Content.g.cs
+C:\Users\Administrator\Desktop\ФГИС ЕГР ЗАГС - ЕИИС v.8\ЗАГС-ЕИИС\obj\x86\Debug\ЗАГС-ЕИИС_MarkupCompile.cache
+C:\Users\Administrator\Desktop\ФГИС ЕГР ЗАГС - ЕИИС v.8\ЗАГС-ЕИИС\obj\x86\Debug\ЗАГС-ЕИИС_MarkupCompile.lref
+C:\Users\Administrator\Desktop\ФГИС ЕГР ЗАГС - ЕИИС v.8\ЗАГС-ЕИИС\obj\x86\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\ФГИС ЕГР ЗАГС - ЕИИС v.8\ЗАГС-ЕИИС\obj\x86\Debug\Window1.baml
+C:\Users\Administrator\Desktop\ФГИС ЕГР ЗАГС - ЕИИС v.8\ЗАГС-ЕИИС\obj\x86\Debug\Window2.baml
+C:\Users\Administrator\Desktop\ФГИС ЕГР ЗАГС - ЕИИС v.8\ЗАГС-ЕИИС\obj\x86\Debug\ЗАГС-ЕИИС.g.resources
+C:\Users\Administrator\Desktop\ФГИС ЕГР ЗАГС - ЕИИС v.8\ЗАГС-ЕИИС\obj\x86\Debug\ЗАГС_ЕИИС.Properties.Resources.resources
+C:\Users\Administrator\Desktop\ФГИС ЕГР ЗАГС - ЕИИС v.8\ЗАГС-ЕИИС\obj\x86\Debug\ЗАГС-ЕИИС.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\ФГИС ЕГР ЗАГС - ЕИИС v.8\ЗАГС-ЕИИС\obj\x86\Debug\ЗАГС-ЕИИС.exe.manifest
+C:\Users\Administrator\Desktop\ФГИС ЕГР ЗАГС - ЕИИС v.8\ЗАГС-ЕИИС\obj\x86\Debug\ЗАГС-ЕИИС.application
+C:\Users\Administrator\Desktop\ФГИС ЕГР ЗАГС - ЕИИС v.8\ЗАГС-ЕИИС\obj\x86\Debug\Window3.baml
+C:\Users\Administrator\Desktop\ФГИС ЕГР ЗАГС - ЕИИС v.8\ЗАГС-ЕИИС\obj\x86\Debug\Window3.g.cs
+C:\Users\ПисьменныйВБ\Desktop\ФГИС ЕГР ЗАГС - ЕИИС v.9\ЗАГС-ЕИИС\bin\x86\Debug\ЗАГС-ЕИИС.exe.config
+C:\Users\ПисьменныйВБ\Desktop\ФГИС ЕГР ЗАГС - ЕИИС v.9\ЗАГС-ЕИИС\obj\x86\Debug\ЗАГС-ЕИИС.exe
+C:\Users\ПисьменныйВБ\Desktop\ФГИС ЕГР ЗАГС - ЕИИС v.9\ЗАГС-ЕИИС\obj\x86\Debug\ЗАГС-ЕИИС.pdb
+C:\Users\ПисьменныйВБ\Desktop\ФГИС ЕГР ЗАГС - ЕИИС v.9\ЗАГС-ЕИИС\bin\x86\Debug\ЗАГС-ЕИИС.exe.manifest
+C:\Users\ПисьменныйВБ\Desktop\ФГИС ЕГР ЗАГС - ЕИИС v.9\ЗАГС-ЕИИС\bin\x86\Debug\ЗАГС-ЕИИС.application
+C:\Users\ПисьменныйВБ\Desktop\ФГИС ЕГР ЗАГС - ЕИИС v.9\ЗАГС-ЕИИС\bin\x86\Debug\ЗАГС-ЕИИС.exe
+C:\Users\ПисьменныйВБ\Desktop\ФГИС ЕГР ЗАГС - ЕИИС v.9\ЗАГС-ЕИИС\bin\x86\Debug\ЗАГС-ЕИИС.pdb
+C:\Users\ПисьменныйВБ\Desktop\ФГИС ЕГР ЗАГС - ЕИИС v.9\ЗАГС-ЕИИС\obj\x86\Debug\Window3.baml
+C:\Users\ПисьменныйВБ\Desktop\ФГИС ЕГР ЗАГС - ЕИИС v.9\ЗАГС-ЕИИС\obj\x86\Debug\MainWindow.g.cs
+C:\Users\ПисьменныйВБ\Desktop\ФГИС ЕГР ЗАГС - ЕИИС v.9\ЗАГС-ЕИИС\obj\x86\Debug\Window1.g.cs
+C:\Users\ПисьменныйВБ\Desktop\ФГИС ЕГР ЗАГС - ЕИИС v.9\ЗАГС-ЕИИС\obj\x86\Debug\Window2.g.cs
+C:\Users\ПисьменныйВБ\Desktop\ФГИС ЕГР ЗАГС - ЕИИС v.9\ЗАГС-ЕИИС\obj\x86\Debug\Window3.g.cs
+C:\Users\ПисьменныйВБ\Desktop\ФГИС ЕГР ЗАГС - ЕИИС v.9\ЗАГС-ЕИИС\obj\x86\Debug\App.g.cs
+C:\Users\ПисьменныйВБ\Desktop\ФГИС ЕГР ЗАГС - ЕИИС v.9\ЗАГС-ЕИИС\obj\x86\Debug\ЗАГС-ЕИИС_Content.g.cs
+C:\Users\ПисьменныйВБ\Desktop\ФГИС ЕГР ЗАГС - ЕИИС v.9\ЗАГС-ЕИИС\obj\x86\Debug\ЗАГС-ЕИИС_MarkupCompile.cache
+C:\Users\ПисьменныйВБ\Desktop\ФГИС ЕГР ЗАГС - ЕИИС v.9\ЗАГС-ЕИИС\obj\x86\Debug\ЗАГС-ЕИИС_MarkupCompile.lref
+C:\Users\ПисьменныйВБ\Desktop\ФГИС ЕГР ЗАГС - ЕИИС v.9\ЗАГС-ЕИИС\obj\x86\Debug\MainWindow.baml
+C:\Users\ПисьменныйВБ\Desktop\ФГИС ЕГР ЗАГС - ЕИИС v.9\ЗАГС-ЕИИС\obj\x86\Debug\Window1.baml
+C:\Users\ПисьменныйВБ\Desktop\ФГИС ЕГР ЗАГС - ЕИИС v.9\ЗАГС-ЕИИС\obj\x86\Debug\Window2.baml
+C:\Users\ПисьменныйВБ\Desktop\ФГИС ЕГР ЗАГС - ЕИИС v.9\ЗАГС-ЕИИС\obj\x86\Debug\ЗАГС-ЕИИС.g.resources
+C:\Users\ПисьменныйВБ\Desktop\ФГИС ЕГР ЗАГС - ЕИИС v.9\ЗАГС-ЕИИС\obj\x86\Debug\ЗАГС_ЕИИС.Properties.Resources.resources
+C:\Users\ПисьменныйВБ\Desktop\ФГИС ЕГР ЗАГС - ЕИИС v.9\ЗАГС-ЕИИС\obj\x86\Debug\ЗАГС-ЕИИС.csproj.GenerateResource.Cache
+C:\Users\ПисьменныйВБ\Desktop\ФГИС ЕГР ЗАГС - ЕИИС v.9\ЗАГС-ЕИИС\obj\x86\Debug\ЗАГС-ЕИИС.exe.manifest
+C:\Users\ПисьменныйВБ\Desktop\ФГИС ЕГР ЗАГС - ЕИИС v.9\ЗАГС-ЕИИС\obj\x86\Debug\ЗАГС-ЕИИС.application
+D:\4_develop\ФГИС ЕГР ЗАГС - ЕИИС v.9\ЗАГС-ЕИИС\bin\x86\Debug\ЗАГС-ЕИИС.exe.config
+D:\4_develop\ФГИС ЕГР ЗАГС - ЕИИС v.9\ЗАГС-ЕИИС\obj\x86\Debug\ЗАГС-ЕИИС.exe
+D:\4_develop\ФГИС ЕГР ЗАГС - ЕИИС v.9\ЗАГС-ЕИИС\obj\x86\Debug\ЗАГС-ЕИИС.pdb
+D:\4_develop\ФГИС ЕГР ЗАГС - ЕИИС v.9\ЗАГС-ЕИИС\bin\x86\Debug\ЗАГС-ЕИИС.exe.manifest
+D:\4_develop\ФГИС ЕГР ЗАГС - ЕИИС v.9\ЗАГС-ЕИИС\bin\x86\Debug\ЗАГС-ЕИИС.application
+D:\4_develop\ФГИС ЕГР ЗАГС - ЕИИС v.9\ЗАГС-ЕИИС\bin\x86\Debug\ЗАГС-ЕИИС.exe
+D:\4_develop\ФГИС ЕГР ЗАГС - ЕИИС v.9\ЗАГС-ЕИИС\bin\x86\Debug\ЗАГС-ЕИИС.pdb
+D:\4_develop\ФГИС ЕГР ЗАГС - ЕИИС v.9\ЗАГС-ЕИИС\obj\x86\Debug\Window3.baml
+D:\4_develop\ФГИС ЕГР ЗАГС - ЕИИС v.9\ЗАГС-ЕИИС\obj\x86\Debug\MainWindow.g.cs
+D:\4_develop\ФГИС ЕГР ЗАГС - ЕИИС v.9\ЗАГС-ЕИИС\obj\x86\Debug\Window1.g.cs
+D:\4_develop\ФГИС ЕГР ЗАГС - ЕИИС v.9\ЗАГС-ЕИИС\obj\x86\Debug\Window2.g.cs
+D:\4_develop\ФГИС ЕГР ЗАГС - ЕИИС v.9\ЗАГС-ЕИИС\obj\x86\Debug\Window3.g.cs
+D:\4_develop\ФГИС ЕГР ЗАГС - ЕИИС v.9\ЗАГС-ЕИИС\obj\x86\Debug\App.g.cs
+D:\4_develop\ФГИС ЕГР ЗАГС - ЕИИС v.9\ЗАГС-ЕИИС\obj\x86\Debug\ЗАГС-ЕИИС_Content.g.cs
+D:\4_develop\ФГИС ЕГР ЗАГС - ЕИИС v.9\ЗАГС-ЕИИС\obj\x86\Debug\ЗАГС-ЕИИС_MarkupCompile.cache
+D:\4_develop\ФГИС ЕГР ЗАГС - ЕИИС v.9\ЗАГС-ЕИИС\obj\x86\Debug\ЗАГС-ЕИИС_MarkupCompile.lref
+D:\4_develop\ФГИС ЕГР ЗАГС - ЕИИС v.9\ЗАГС-ЕИИС\obj\x86\Debug\MainWindow.baml
+D:\4_develop\ФГИС ЕГР ЗАГС - ЕИИС v.9\ЗАГС-ЕИИС\obj\x86\Debug\Window1.baml
+D:\4_develop\ФГИС ЕГР ЗАГС - ЕИИС v.9\ЗАГС-ЕИИС\obj\x86\Debug\Window2.baml
+D:\4_develop\ФГИС ЕГР ЗАГС - ЕИИС v.9\ЗАГС-ЕИИС\obj\x86\Debug\ЗАГС-ЕИИС.g.resources
+D:\4_develop\ФГИС ЕГР ЗАГС - ЕИИС v.9\ЗАГС-ЕИИС\obj\x86\Debug\ЗАГС_ЕИИС.Properties.Resources.resources
+D:\4_develop\ФГИС ЕГР ЗАГС - ЕИИС v.9\ЗАГС-ЕИИС\obj\x86\Debug\ЗАГС-ЕИИС.csproj.GenerateResource.Cache
+D:\4_develop\ФГИС ЕГР ЗАГС - ЕИИС v.9\ЗАГС-ЕИИС\obj\x86\Debug\ЗАГС-ЕИИС.exe.manifest
+D:\4_develop\ФГИС ЕГР ЗАГС - ЕИИС v.9\ЗАГС-ЕИИС\obj\x86\Debug\ЗАГС-ЕИИС.application

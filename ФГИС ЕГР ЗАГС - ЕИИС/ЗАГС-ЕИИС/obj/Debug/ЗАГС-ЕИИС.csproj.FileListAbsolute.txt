@@ -1,0 +1,74 @@
+D:\1_R_E_l_i_S\15_C#WPF_ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\bin\Debug\ЗАГС-ЕИИС.exe.config
+D:\1_R_E_l_i_S\15_C#WPF_ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\bin\Debug\ЗАГС-ЕИИС.exe
+D:\1_R_E_l_i_S\15_C#WPF_ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\bin\Debug\ЗАГС-ЕИИС.pdb
+D:\1_R_E_l_i_S\15_C#WPF_ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\Debug\ЗАГС-ЕИИС.csprojResolveAssemblyReference.cache
+D:\1_R_E_l_i_S\15_C#WPF_ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\Debug\MainWindow.g.cs
+D:\1_R_E_l_i_S\15_C#WPF_ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\Debug\App.g.cs
+D:\1_R_E_l_i_S\15_C#WPF_ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\Debug\ЗАГС-ЕИИС_MarkupCompile.cache
+D:\1_R_E_l_i_S\15_C#WPF_ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\Debug\ЗАГС-ЕИИС_MarkupCompile.lref
+D:\1_R_E_l_i_S\15_C#WPF_ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\Debug\MainWindow.baml
+D:\1_R_E_l_i_S\15_C#WPF_ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\Debug\ЗАГС-ЕИИС.g.resources
+D:\1_R_E_l_i_S\15_C#WPF_ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\Debug\ЗАГС_ЕИИС.Properties.Resources.resources
+D:\1_R_E_l_i_S\15_C#WPF_ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\Debug\ЗАГС-ЕИИС.csproj.GenerateResource.Cache
+D:\1_R_E_l_i_S\15_C#WPF_ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\Debug\ЗАГС-ЕИИС.exe
+D:\1_R_E_l_i_S\15_C#WPF_ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\Debug\ЗАГС-ЕИИС.pdb
+C:\Users\Admin\Desktop\15_C#WPF_ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\bin\Debug\ЗАГС-ЕИИС.exe.config
+C:\Users\Admin\Desktop\15_C#WPF_ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\Debug\ЗАГС-ЕИИС.exe
+C:\Users\Admin\Desktop\15_C#WPF_ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\Debug\ЗАГС-ЕИИС.pdb
+C:\Users\Admin\Desktop\15_C#WPF_ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\bin\Debug\ЗАГС-ЕИИС.exe
+C:\Users\Admin\Desktop\15_C#WPF_ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\bin\Debug\ЗАГС-ЕИИС.pdb
+C:\Users\Admin\Desktop\15_C#WPF_ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\Debug\ЗАГС-ЕИИС.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\15_C#WPF_ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\15_C#WPF_ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\Debug\Window1.g.cs
+C:\Users\Admin\Desktop\15_C#WPF_ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\15_C#WPF_ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\Debug\ЗАГС-ЕИИС_MarkupCompile.cache
+C:\Users\Admin\Desktop\15_C#WPF_ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\Debug\ЗАГС-ЕИИС_MarkupCompile.lref
+C:\Users\Admin\Desktop\15_C#WPF_ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\15_C#WPF_ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\Debug\Window1.baml
+C:\Users\Admin\Desktop\15_C#WPF_ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\Debug\ЗАГС-ЕИИС.g.resources
+C:\Users\Admin\Desktop\15_C#WPF_ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\Debug\ЗАГС_ЕИИС.Properties.Resources.resources
+C:\Users\Admin\Desktop\15_C#WPF_ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\Debug\ЗАГС-ЕИИС.csproj.GenerateResource.Cache
+C:\Users\ПисьменныйВБ\Desktop\15_C#WPF_ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\bin\Debug\ЗАГС-ЕИИС.exe.config
+C:\Users\ПисьменныйВБ\Desktop\15_C#WPF_ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\bin\Debug\ЗАГС-ЕИИС.exe.manifest
+C:\Users\ПисьменныйВБ\Desktop\15_C#WPF_ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\bin\Debug\ЗАГС-ЕИИС.application
+C:\Users\ПисьменныйВБ\Desktop\15_C#WPF_ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\bin\Debug\ЗАГС-ЕИИС.exe
+C:\Users\ПисьменныйВБ\Desktop\15_C#WPF_ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\bin\Debug\ЗАГС-ЕИИС.pdb
+C:\Users\ПисьменныйВБ\Desktop\15_C#WPF_ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\Debug\MainWindow.g.cs
+C:\Users\ПисьменныйВБ\Desktop\15_C#WPF_ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\Debug\Window1.g.cs
+C:\Users\ПисьменныйВБ\Desktop\15_C#WPF_ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\Debug\App.g.cs
+C:\Users\ПисьменныйВБ\Desktop\15_C#WPF_ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\Debug\ЗАГС-ЕИИС_MarkupCompile.cache
+C:\Users\ПисьменныйВБ\Desktop\15_C#WPF_ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\Debug\ЗАГС-ЕИИС_MarkupCompile.lref
+C:\Users\ПисьменныйВБ\Desktop\15_C#WPF_ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\Debug\MainWindow.baml
+C:\Users\ПисьменныйВБ\Desktop\15_C#WPF_ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\Debug\Window1.baml
+C:\Users\ПисьменныйВБ\Desktop\15_C#WPF_ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\Debug\ЗАГС-ЕИИС.g.resources
+C:\Users\ПисьменныйВБ\Desktop\15_C#WPF_ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\Debug\ЗАГС_ЕИИС.Properties.Resources.resources
+C:\Users\ПисьменныйВБ\Desktop\15_C#WPF_ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\Debug\ЗАГС-ЕИИС.csproj.GenerateResource.Cache
+C:\Users\ПисьменныйВБ\Desktop\15_C#WPF_ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\Debug\ЗАГС-ЕИИС.exe.manifest
+C:\Users\ПисьменныйВБ\Desktop\15_C#WPF_ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\Debug\ЗАГС-ЕИИС.application
+C:\Users\ПисьменныйВБ\Desktop\15_C#WPF_ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\Debug\ЗАГС-ЕИИС.exe
+C:\Users\ПисьменныйВБ\Desktop\15_C#WPF_ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\Debug\ЗАГС-ЕИИС.pdb
+C:\Users\ПисьменныйВБ\Desktop\15_C#WPF_ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\Debug\ЗАГС-ЕИИС_Content.g.cs
+C:\Users\ПисьменныйВБ\Desktop\15_C#WPF_ЗАГС-ЕИИС\ЗАГС-ЕИИС\ЗАГС-ЕИИС\obj\Debug\ЗАГС-ЕИИС.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ЗАГС-ЕИИС v.5(WPF)\ЗАГС-ЕИИС\bin\Debug\ЗАГС-ЕИИС.exe.config
+C:\Users\Administrator\Desktop\ЗАГС-ЕИИС v.5(WPF)\ЗАГС-ЕИИС\obj\Debug\ЗАГС-ЕИИС.exe
+C:\Users\Administrator\Desktop\ЗАГС-ЕИИС v.5(WPF)\ЗАГС-ЕИИС\obj\Debug\ЗАГС-ЕИИС.pdb
+C:\Users\Administrator\Desktop\ЗАГС-ЕИИС v.5(WPF)\ЗАГС-ЕИИС\bin\Debug\ЗАГС-ЕИИС.exe.manifest
+C:\Users\Administrator\Desktop\ЗАГС-ЕИИС v.5(WPF)\ЗАГС-ЕИИС\bin\Debug\ЗАГС-ЕИИС.application
+C:\Users\Administrator\Desktop\ЗАГС-ЕИИС v.5(WPF)\ЗАГС-ЕИИС\bin\Debug\ЗАГС-ЕИИС.exe
+C:\Users\Administrator\Desktop\ЗАГС-ЕИИС v.5(WPF)\ЗАГС-ЕИИС\bin\Debug\ЗАГС-ЕИИС.pdb
+C:\Users\Administrator\Desktop\ЗАГС-ЕИИС v.5(WPF)\ЗАГС-ЕИИС\obj\Debug\ЗАГС-ЕИИС.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ЗАГС-ЕИИС v.5(WPF)\ЗАГС-ЕИИС\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\ЗАГС-ЕИИС v.5(WPF)\ЗАГС-ЕИИС\obj\Debug\Window1.g.cs
+C:\Users\Administrator\Desktop\ЗАГС-ЕИИС v.5(WPF)\ЗАГС-ЕИИС\obj\Debug\Window2.g.cs
+C:\Users\Administrator\Desktop\ЗАГС-ЕИИС v.5(WPF)\ЗАГС-ЕИИС\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\ЗАГС-ЕИИС v.5(WPF)\ЗАГС-ЕИИС\obj\Debug\ЗАГС-ЕИИС_Content.g.cs
+C:\Users\Administrator\Desktop\ЗАГС-ЕИИС v.5(WPF)\ЗАГС-ЕИИС\obj\Debug\ЗАГС-ЕИИС_MarkupCompile.cache
+C:\Users\Administrator\Desktop\ЗАГС-ЕИИС v.5(WPF)\ЗАГС-ЕИИС\obj\Debug\ЗАГС-ЕИИС_MarkupCompile.lref
+C:\Users\Administrator\Desktop\ЗАГС-ЕИИС v.5(WPF)\ЗАГС-ЕИИС\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\ЗАГС-ЕИИС v.5(WPF)\ЗАГС-ЕИИС\obj\Debug\Window1.baml
+C:\Users\Administrator\Desktop\ЗАГС-ЕИИС v.5(WPF)\ЗАГС-ЕИИС\obj\Debug\Window2.baml
+C:\Users\Administrator\Desktop\ЗАГС-ЕИИС v.5(WPF)\ЗАГС-ЕИИС\obj\Debug\ЗАГС-ЕИИС.g.resources
+C:\Users\Administrator\Desktop\ЗАГС-ЕИИС v.5(WPF)\ЗАГС-ЕИИС\obj\Debug\ЗАГС_ЕИИС.Properties.Resources.resources
+C:\Users\Administrator\Desktop\ЗАГС-ЕИИС v.5(WPF)\ЗАГС-ЕИИС\obj\Debug\ЗАГС-ЕИИС.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\ЗАГС-ЕИИС v.5(WPF)\ЗАГС-ЕИИС\obj\Debug\ЗАГС-ЕИИС.exe.manifest
+C:\Users\Administrator\Desktop\ЗАГС-ЕИИС v.5(WPF)\ЗАГС-ЕИИС\obj\Debug\ЗАГС-ЕИИС.application

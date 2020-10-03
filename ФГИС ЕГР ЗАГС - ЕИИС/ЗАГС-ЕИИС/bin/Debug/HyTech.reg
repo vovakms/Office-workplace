@@ -1,0 +1,39 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\ODBC\ODBCINST.INI\HyTech SQL Server ODBC Driver]
+"UsageCount"=dword:00000001
+"Driver"="C:\\Windows\\system32\\htodbc.dll"
+"Setup"="C:\\Windows\\system32\\htodbc.dll"
+"SQLLevel"="1"
+"FileUsage"="0"
+"DriverODBCVer"="03.51"
+"ConnectFunctions"="YYY"
+"APILevel"="2"
+"CPTimeout"="60"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\ODBC\ODBCINST.INI\ODBC Drivers]
+"HyTech SQL Server ODBC Driver"="Installed"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\ODBC\ODBCINST.INI\HyTech SQL Server ODBC Driver]
+"UsageCount"=dword:00000006
+"Driver"="C:\\Windows\\system32\\htodbc.dll"
+"Setup"="C:\\Windows\\system32\\htodbc.dll"
+"SQLLevel"="1"
+"FileUsage"="0"
+"DriverODBCVer"="03.51"
+"ConnectFunctions"="YYY"
+"APILevel"="2"
+"CPTimeout"="60"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\ODBC\ODBC.INI\ODBC Data Sources]
+"HyTech" = "HyTech SQL Server ODBC Driver"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\ODBC\ODBC.INI\HyTech]
+"Driver"="C:\\Windows\\system32\\htodbc.dll"
+"CT"="N"
+"MSJET"="N"
+"FIXALL"="Y"
+"SN" = "tcpip:/localhost:13000"
+"PWD" = "PASSWORD"
+"UID" = "HTADMIN"
+"SRV" = "tcpip:/localhost:13000"

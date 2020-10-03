@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="ЗАГС-ЕИИС.exe" version="1.0.0.2" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="ЗАГС-ЕИИС" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="ЗАГС-ЕИИС.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Параметры манифеста UAC
+          При необходимости изменить уровень управления учетными записями Windows замените 
+          узел requestedExecutionLevel одним из следующих значений.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+        Если вы хотите использовать виртуализацию файлов и реестра для обратной
+             совместимости, удалите узел requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ЗАГС-ЕИИС.exe" size="71168">
+      <assemblyIdentity name="ЗАГС-ЕИИС" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>us0KrHkRpOjkE4NUdueJb9JL0BD1mG3X8jCTwmFYcU4=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="HyTechODBC\ds16gt.dll" size="4656">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>/SeJumqmsqJxKUm7xXQr/Af+ucI+rD68ohIz2r3oi8Y=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="HyTechODBC\ds32gt.dll" size="24848">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>EZoo/vurUynLh93RJxvv0HbX8F5z0WzgVkkoQqXdpGg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="HyTechODBC\hsw32std.dll" size="367648">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>4UkGtO3yRJfksXbo4LyMo3orMLK+4wo9PFEj8MWmS+A=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="HyTechODBC\htodbc.dll" size="364544">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>bbvysXLukB1tkMsR0cBL9sbzzFBAPivDEXUdLkJwUZM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="HyTechODBC\msvcrt.dll" size="280576">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>358qq39xGfIUxddD2WH95L8yTxkBH7u36c9maFb7oLo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="HyTechODBC\msvcrt40.dll" size="326656">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>q1Wi3itvrz2qzT5pRz04XOrq2AM/fHm+trv4AvIw8DA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="HyTechODBC\odbc16gt.dll" size="26224">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>CFjSQbZSKdLeVAc4xlUoNp1PfOhzb80gBq5AvgGhEvg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="HyTechODBC\odbc32.dll" size="221456">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>ZYRLE8UnkceNFgrBJr3yjzoeswy3Vwm4u4NFHLRZ2h0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="HyTechODBC\odbc32gt.dll" size="24848">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>2jSv1xTziPDmzmgXmF9Xv5loCDAkCONFVhvuONR0DMo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="HyTechODBC\odbcad32.exe" size="37136">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>oucfKFb8EUp4hOnwpWG169fZdWRSfcoJz7PGoSS09Xg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="HyTechODBC\odbccp32.dll" size="102672">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>yoI+siyKmv6gct4XdihMjGIcfM91VYp+g+G8cc5pdfE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="HyTechODBC\odbccr32.dll" size="196880">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>1A8Yqw2cJfT0eAqM3GYDiLbGsEq+fTj0Efb5/evMyVY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="HyTechODBC\odbccu32.dll" size="200976">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>gNT3T8FZQI94L9otE0OnzscgYTw7PpqkcXHJAcZovKw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="HyTechODBC\odbcinst.exe" size="180224">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>LOOk/uw14YYwqi6nKM4u/f/dfbfTTqYmU5tMpjg4ufA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="HyTechODBC\odbcint.dll" size="90112">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>42l4TfkPcrU2PvGS3nue32IXRZiRXkLYHibfyUlTfjY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="HyTechODBC\ODBCTL32.DLL" size="72704">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>ENxpDN2Ih6WwUtv+EMW7oHUEZaVBpBLVFqoCYbDH3lo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="HyTechODBC\odbctrac.dll" size="151824">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>FLWGNF11y9wV5s+gZp5YpGalZGKGFeaWiUN3AEnzvyM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ЗАГС-ЕИИС.exe.config" size="3100">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>858DpxA5wImYrxcSg9FSXpJw2MeJxbKiwQ5TrTelZuI=</dsig:DigestValue>
+    </hash>
+  </file>
+</asmv1:assembly>

@@ -1,0 +1,8 @@
+﻿<Window x:Class="ЗАГС_ЕИИС.Window3"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Window3" Height="154" Width="918">
+    <Grid>
+        <Label Content="Внимание идет сверка" Height="141" HorizontalAlignment="Left" Margin="12,5,0,0" Name="label1" VerticalAlignment="Top" Width="896" FontSize="72" FontWeight="Bold" />
+    </Grid>
+</Window>
