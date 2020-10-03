@@ -1,0 +1,130 @@
+﻿<Window x:Class="Агрегатор.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Агрегатор"
+        mc:Ignorable="d"
+         
+        Title="Агрегатор" Height="489" Width="1338" Loaded="Window_Loaded">
+
+    <Window.Background>
+        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+            <GradientStop Color="#FFC58A0D" Offset="0"/>
+            <GradientStop Color="#FFC58A0D" Offset="1"/>
+            <GradientStop Color="#FF634506" Offset="0.503"/>
+        </LinearGradientBrush>
+    </Window.Background>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="291*"/>
+            <ColumnDefinition Width="5*"/>
+            <ColumnDefinition Width="458*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30*"/>
+            <RowDefinition Height="474*"/>
+            <RowDefinition Height="30*"/>
+        </Grid.RowDefinitions>
+        <StatusBar Grid.Row="2" Margin="0,4,0,0" Grid.ColumnSpan="3">
+            <StatusBar.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFFDFAFA" Offset="0"/>
+                    <GradientStop Color="#FFFBE4B3" Offset="0.948"/>
+                    <GradientStop Color="#FFC58A0D" Offset="0.14"/>
+                    <GradientStop Color="#FFF0C05A" Offset="0.326"/>
+                    <GradientStop Color="#FFC58A0D" Offset="0.747"/>
+                    <GradientStop Color="#FFF5E0B4" Offset="0.991"/>
+                </LinearGradientBrush>
+            </StatusBar.Background>
+        </StatusBar>
+        <GridSplitter Grid.Column="1" HorizontalAlignment="Stretch" Margin="2,0,2,1" Grid.Row="1" Background="#7FC58A0D"/>
+        <WebBrowser x:Name="wb1" Grid.Column="2"   Margin="0,4,10,1" Grid.Row="1"/>
+        <Menu Grid.ColumnSpan="3" Margin="0,0,0,1">
+            <Menu.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFC58A0D" Offset="0"/>
+                    <GradientStop Color="#FF171717" Offset="1"/>
+                    <GradientStop Color="#FFBF9E57" Offset="0.346"/>
+                    <GradientStop Color="#FFC58A0D" Offset="0.962"/>
+                    <GradientStop Color="#FFE8CC91" Offset="0.625"/>
+                </LinearGradientBrush>
+            </Menu.Background>
+            <MenuItem Header="Файл" Height="20" Margin="5,5,0,0" Width="100">
+                <MenuItem x:Name="mi11" Header="Открыть" HorizontalAlignment="Left" Height="20" Width="85" Click="mi11_Click"/>
+            </MenuItem>
+            <MenuItem Header="Вид" Height="20" Margin="5,5,0,0" Width="100">
+                <MenuItem x:Name="mi21" Header="Сканер портов" HorizontalAlignment="Left" Height="100" Width="85" Click="mi21_Click"/>
+            </MenuItem>
+            <MenuItem Header="Сервис" Height="20" Margin="5,5,0,0" Width="100">
+                <MenuItem x:Name="mi1" Header="Пользователи" Height="20" Background="#FF78EC8D" Click="mi1_Click"/>
+                <MenuItem x:Name="mi2" Header="Компьютеры" Height="20" Background="#FF979DDC" Click="mi2_Click"/>
+                <MenuItem x:Name="mi3" Header="Принтеры" Height="20" Background="#FFBF98F7" Click="mi3_Click"/>
+                <MenuItem x:Name="mi4" Header="Сервера" Height="20" Background="#FFDCAD97" Click="mi4_Click"/>
+                <MenuItem x:Name="mi5" Header="Телефония" Height="20" Background="#FFD6F19A" Click="mi5_Click"/>
+                <MenuItem x:Name="mi6" Header="Видеонаблюдение" Height="20" Background="#FFCE83F9" Click="mi6_Click"/>
+            </MenuItem>
+            <MenuItem Header="Справка" Height="20" Margin="0" Width="108">
+                <MenuItem x:Name="mi41" Header="О программе ...." Height="20" Width="120" Background="#FF94F590" Click="mi41_Click"/>
+            </MenuItem>
+            <MenuItem Header="" Height="15" Margin="0" Width="100"/>
+            <Label x:Name="lb2" Content="{Binding SelectedItem}" HorizontalAlignment="Left" VerticalAlignment="Top" Width="284" Height="19"/>
+        </Menu>
+        <TabControl Grid.Row="1" Margin="0,0,0,1">
+            <TabItem Header="Принтеры" Margin="0,0,7,-2">
+                <Grid Background="#FFE5E5E5">
+                    <ListBox x:Name="lb1" SelectedItem ="{Binding SelectedItem}" ItemsSource="{Binding ColPrint}" Margin="10" FontSize="14" FontWeight="Bold" SelectionChanged="lb1_SelectionChanged">
+                        <ListBox.Background>
+                            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                <GradientStop Color="#FFF7CE76" Offset="0"/>
+                                <GradientStop Color="#FFF3DAA3" Offset="1"/>
+                                <GradientStop Color="#FFC58A0D" Offset="0.538"/>
+                            </LinearGradientBrush>
+                        </ListBox.Background>
+                    </ListBox>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Телефоны" Margin="-3,0,10,-2">
+                <Grid Background="#FFE5E5E5"/>
+            </TabItem>
+            <TabItem Header="Видео" HorizontalAlignment="Left" Height="21" VerticalAlignment="Top" Width="71" Margin="-6,0,0,0">
+                <Grid Background="#FFE5E5E5"/>
+            </TabItem>
+            <TabItem Header="Сервера" HorizontalAlignment="Left" Height="21" VerticalAlignment="Top" Width="74" Margin="-3,0,0,0">
+                <Grid Background="#FFE5E5E5"/>
+            </TabItem>
+            <TabItem Header="Пользователи" HorizontalAlignment="Left" Height="21" VerticalAlignment="Top" Width="95" Margin="-1,0,0,0">
+                <Grid Background="#FFE5E5E5">
+                    <Label Content="Label" HorizontalAlignment="Left" Margin="74,106,0,0" VerticalAlignment="Top" Width="314"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Компьютеры" HorizontalAlignment="Left" Height="21" VerticalAlignment="Top" Width="92" Margin="2,0,0,0">
+                <Grid Background="#FFE5E5E5">
+
+
+                    <ListBox SelectedItem ="{Binding SelectedItem}" ItemsSource="{Binding ListBoxItemcColllections}" Name="listComp"   Margin="5" FontSize="16" FontWeight="Bold">
+                        <ListBox.ItemTemplate>
+                            <DataTemplate>
+                                <Border Margin="5" BorderThickness="1" BorderBrush="SteelBlue" CornerRadius="4" Width="370">
+                                    <TextBlock>
+                                        <TextBlock.Text>
+                                            <MultiBinding StringFormat="{}{1}, {0}">
+                                                <Binding Path="NameComp"></Binding>
+                                                <Binding Path="IPadrComp"></Binding>
+                                            </MultiBinding>
+                                        </TextBlock.Text>
+                                    </TextBlock>
+
+
+                                </Border>
+                            </DataTemplate>
+                        </ListBox.ItemTemplate>
+                    </ListBox>
+
+
+                </Grid>
+            </TabItem>
+        </TabControl>
+
+    </Grid>
+</Window>

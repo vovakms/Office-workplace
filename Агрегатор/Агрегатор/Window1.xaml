@@ -1,0 +1,14 @@
+﻿<Window x:Class="Агрегатор.Window1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:local="clr-namespace:Агрегатор"
+    mc:Ignorable="d" Loaded="Window_Loaded"
+    Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <ListBox x:Name="lb1" SelectedItem ="{Binding SelectedItem}" ItemsSource="{Binding ColPrint}" Margin="49,112,285,103"/>
+        <ListBox x:Name="lb2" SelectedItem ="{Binding SelectedItem}" ItemsSource="{Binding ColPrint}" Margin="297,112,17,103"/>
+        <Label Content="{Binding SelectedItem}" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="254,28,131,0" Width="132" Height="24"/>
+    </Grid>
+</Window>
