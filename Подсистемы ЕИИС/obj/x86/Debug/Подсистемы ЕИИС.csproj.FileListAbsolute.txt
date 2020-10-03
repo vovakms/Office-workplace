@@ -1,0 +1,54 @@
+C:\Users\Admin2\AppData\Local\Temporary Projects\Подсистемы ЕИИС\bin\Debug\Подсистемы ЕИИС.exe
+C:\Users\Admin2\AppData\Local\Temporary Projects\Подсистемы ЕИИС\bin\Debug\Подсистемы ЕИИС.pdb
+C:\Users\Admin2\AppData\Local\Temporary Projects\Подсистемы ЕИИС\obj\x86\Debug\Подсистемы_ЕИИС.Form1.resources
+C:\Users\Admin2\AppData\Local\Temporary Projects\Подсистемы ЕИИС\obj\x86\Debug\Подсистемы_ЕИИС.Properties.Resources.resources
+C:\Users\Admin2\AppData\Local\Temporary Projects\Подсистемы ЕИИС\obj\x86\Debug\Подсистемы ЕИИС.csproj.GenerateResource.Cache
+C:\Users\Admin2\AppData\Local\Temporary Projects\Подсистемы ЕИИС\obj\x86\Debug\Подсистемы ЕИИС.exe
+C:\Users\Admin2\AppData\Local\Temporary Projects\Подсистемы ЕИИС\obj\x86\Debug\Подсистемы ЕИИС.pdb
+D:\C#\Подсистемы ЕИИС\Подсистемы ЕИИС\obj\x86\Debug\Подсистемы ЕИИС.exe
+D:\C#\Подсистемы ЕИИС\Подсистемы ЕИИС\obj\x86\Debug\Подсистемы ЕИИС.pdb
+D:\C#\Подсистемы ЕИИС\Подсистемы ЕИИС\bin\Debug\Подсистемы ЕИИС.exe
+D:\C#\Подсистемы ЕИИС\Подсистемы ЕИИС\bin\Debug\Подсистемы ЕИИС.pdb
+D:\C#\Подсистемы ЕИИС\Подсистемы ЕИИС\obj\x86\Debug\Подсистемы_ЕИИС.Form1.resources
+D:\C#\Подсистемы ЕИИС\Подсистемы ЕИИС\obj\x86\Debug\Подсистемы_ЕИИС.Properties.Resources.resources
+D:\C#\Подсистемы ЕИИС\Подсистемы ЕИИС\obj\x86\Debug\Подсистемы ЕИИС.csproj.GenerateResource.Cache
+D:\7_DEVELOP\7_C#\Подсистемы ЕИИС\Подсистемы ЕИИС\obj\x86\Debug\Подсистемы ЕИИС.exe
+D:\7_DEVELOP\7_C#\Подсистемы ЕИИС\Подсистемы ЕИИС\obj\x86\Debug\Подсистемы ЕИИС.pdb
+D:\7_DEVELOP\7_C#\Подсистемы ЕИИС\Подсистемы ЕИИС\bin\Debug\Подсистемы ЕИИС.exe
+D:\7_DEVELOP\7_C#\Подсистемы ЕИИС\Подсистемы ЕИИС\bin\Debug\Подсистемы ЕИИС.pdb
+D:\7_DEVELOP\7_C#\Подсистемы ЕИИС\Подсистемы ЕИИС\obj\x86\Debug\Подсистемы_ЕИИС.Form1.resources
+D:\7_DEVELOP\7_C#\Подсистемы ЕИИС\Подсистемы ЕИИС\obj\x86\Debug\Подсистемы_ЕИИС.Properties.Resources.resources
+D:\7_DEVELOP\7_C#\Подсистемы ЕИИС\Подсистемы ЕИИС\obj\x86\Debug\Подсистемы ЕИИС.csproj.GenerateResource.Cache
+D:\7_DEVELOP\7_C#\Подсистемы ЕИИС\Подсистемы ЕИИС\obj\x86\Debug\Подсистемы_ЕИИС.Form2.resources
+D:\7_DEVELOP\7_C#\Подсистемы ЕИИС\Подсистемы ЕИИС\obj\x86\Debug\Подсистемы ЕИИС.csprojResolveAssemblyReference.cache
+D:\7_DEVELOP\7_C#\Подсистемы ЕИИС\Подсистемы ЕИИС\bin\Debug\Подсистемы ЕИИС.exe.config
+D:\7_DEVELOP\7_C#\!__Подсистемы ЕИИС\Подсистемы ЕИИС\bin\Debug\Подсистемы ЕИИС.exe.config
+D:\7_DEVELOP\7_C#\!__Подсистемы ЕИИС\Подсистемы ЕИИС\obj\x86\Debug\Подсистемы ЕИИС.exe
+D:\7_DEVELOP\7_C#\!__Подсистемы ЕИИС\Подсистемы ЕИИС\obj\x86\Debug\Подсистемы ЕИИС.pdb
+D:\7_DEVELOP\7_C#\!__Подсистемы ЕИИС\Подсистемы ЕИИС\bin\Debug\Подсистемы ЕИИС.exe
+D:\7_DEVELOP\7_C#\!__Подсистемы ЕИИС\Подсистемы ЕИИС\bin\Debug\Подсистемы ЕИИС.pdb
+D:\7_DEVELOP\7_C#\!__Подсистемы ЕИИС\Подсистемы ЕИИС\obj\x86\Debug\Подсистемы ЕИИС.csprojResolveAssemblyReference.cache
+D:\7_DEVELOP\7_C#\!__Подсистемы ЕИИС\Подсистемы ЕИИС\obj\x86\Debug\Подсистемы_ЕИИС.Form1.resources
+D:\7_DEVELOP\7_C#\!__Подсистемы ЕИИС\Подсистемы ЕИИС\obj\x86\Debug\Подсистемы_ЕИИС.Form2.resources
+D:\7_DEVELOP\7_C#\!__Подсистемы ЕИИС\Подсистемы ЕИИС\obj\x86\Debug\Подсистемы_ЕИИС.Properties.Resources.resources
+D:\7_DEVELOP\7_C#\!__Подсистемы ЕИИС\Подсистемы ЕИИС\obj\x86\Debug\Подсистемы ЕИИС.csproj.GenerateResource.Cache
+D:\1_Relis\1__Подсистемы ЕИИС\Подсистемы ЕИИС\bin\Debug\Подсистемы ЕИИС.exe.config
+D:\1_Relis\1__Подсистемы ЕИИС\Подсистемы ЕИИС\obj\x86\Debug\Подсистемы ЕИИС.exe
+D:\1_Relis\1__Подсистемы ЕИИС\Подсистемы ЕИИС\obj\x86\Debug\Подсистемы ЕИИС.pdb
+D:\1_Relis\1__Подсистемы ЕИИС\Подсистемы ЕИИС\bin\Debug\Подсистемы ЕИИС.exe
+D:\1_Relis\1__Подсистемы ЕИИС\Подсистемы ЕИИС\bin\Debug\Подсистемы ЕИИС.pdb
+D:\1_Relis\1__Подсистемы ЕИИС\Подсистемы ЕИИС\obj\x86\Debug\Подсистемы ЕИИС.csprojResolveAssemblyReference.cache
+D:\1_Relis\1__Подсистемы ЕИИС\Подсистемы ЕИИС\obj\x86\Debug\Подсистемы_ЕИИС.Form1.resources
+D:\1_Relis\1__Подсистемы ЕИИС\Подсистемы ЕИИС\obj\x86\Debug\Подсистемы_ЕИИС.Form2.resources
+D:\1_Relis\1__Подсистемы ЕИИС\Подсистемы ЕИИС\obj\x86\Debug\Подсистемы_ЕИИС.Properties.Resources.resources
+D:\1_Relis\1__Подсистемы ЕИИС\Подсистемы ЕИИС\obj\x86\Debug\Подсистемы ЕИИС.csproj.GenerateResource.Cache
+D:\1_Relis\1__Подсистемы ЕИИС\Подсистемы ЕИИС_v.2\bin\Debug\Подсистемы ЕИИС.exe.config
+D:\1_Relis\1__Подсистемы ЕИИС\Подсистемы ЕИИС_v.2\obj\x86\Debug\Подсистемы ЕИИС.exe
+D:\1_Relis\1__Подсистемы ЕИИС\Подсистемы ЕИИС_v.2\obj\x86\Debug\Подсистемы ЕИИС.pdb
+D:\1_Relis\1__Подсистемы ЕИИС\Подсистемы ЕИИС_v.2\bin\Debug\Подсистемы ЕИИС.exe
+D:\1_Relis\1__Подсистемы ЕИИС\Подсистемы ЕИИС_v.2\bin\Debug\Подсистемы ЕИИС.pdb
+D:\1_Relis\1__Подсистемы ЕИИС\Подсистемы ЕИИС_v.2\obj\x86\Debug\Подсистемы ЕИИС.csprojResolveAssemblyReference.cache
+D:\1_Relis\1__Подсистемы ЕИИС\Подсистемы ЕИИС_v.2\obj\x86\Debug\Подсистемы_ЕИИС.Form1.resources
+D:\1_Relis\1__Подсистемы ЕИИС\Подсистемы ЕИИС_v.2\obj\x86\Debug\Подсистемы_ЕИИС.Form2.resources
+D:\1_Relis\1__Подсистемы ЕИИС\Подсистемы ЕИИС_v.2\obj\x86\Debug\Подсистемы_ЕИИС.Properties.Resources.resources
+D:\1_Relis\1__Подсистемы ЕИИС\Подсистемы ЕИИС_v.2\obj\x86\Debug\Подсистемы ЕИИС.csproj.GenerateResource.Cache
