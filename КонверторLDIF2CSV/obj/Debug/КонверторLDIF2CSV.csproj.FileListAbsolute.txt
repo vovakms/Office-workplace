@@ -1,0 +1,14 @@
+C:\Users\Вова\Desktop\КонверторLDIF\КонверторLDIF2CSV\bin\Debug\КонверторLDIF2CSV.exe.config
+C:\Users\Вова\Desktop\КонверторLDIF\КонверторLDIF2CSV\bin\Debug\КонверторLDIF2CSV.exe
+C:\Users\Вова\Desktop\КонверторLDIF\КонверторLDIF2CSV\bin\Debug\КонверторLDIF2CSV.pdb
+C:\Users\Вова\Desktop\КонверторLDIF\КонверторLDIF2CSV\obj\Debug\КонверторLDIF2CSV.csprojAssemblyReference.cache
+C:\Users\Вова\Desktop\КонверторLDIF\КонверторLDIF2CSV\obj\Debug\MainWindow.g.cs
+C:\Users\Вова\Desktop\КонверторLDIF\КонверторLDIF2CSV\obj\Debug\App.g.cs
+C:\Users\Вова\Desktop\КонверторLDIF\КонверторLDIF2CSV\obj\Debug\КонверторLDIF2CSV_MarkupCompile.cache
+C:\Users\Вова\Desktop\КонверторLDIF\КонверторLDIF2CSV\obj\Debug\КонверторLDIF2CSV_MarkupCompile.lref
+C:\Users\Вова\Desktop\КонверторLDIF\КонверторLDIF2CSV\obj\Debug\MainWindow.baml
+C:\Users\Вова\Desktop\КонверторLDIF\КонверторLDIF2CSV\obj\Debug\КонверторLDIF2CSV.g.resources
+C:\Users\Вова\Desktop\КонверторLDIF\КонверторLDIF2CSV\obj\Debug\КонверторLDIF2CSV.Properties.Resources.resources
+C:\Users\Вова\Desktop\КонверторLDIF\КонверторLDIF2CSV\obj\Debug\КонверторLDIF2CSV.csproj.GenerateResource.cache
+C:\Users\Вова\Desktop\КонверторLDIF\КонверторLDIF2CSV\obj\Debug\КонверторLDIF2CSV.exe
+C:\Users\Вова\Desktop\КонверторLDIF\КонверторLDIF2CSV\obj\Debug\КонверторLDIF2CSV.pdb
