@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Почтовичок.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="СерверSMPT" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10.27.0.18</Value>
+    </Setting>
+    <Setting Name="УчеткаРассылки" Type="System.String" Scope="User">
+      <Value Profile="(Default)">teh_fil_11@ro27.fss.ru</Value>
+    </Setting>
+    <Setting Name="Пароль" Type="System.String" Scope="User">
+      <Value Profile="(Default)">12345</Value>
+    </Setting>
+    <Setting Name="БД" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>

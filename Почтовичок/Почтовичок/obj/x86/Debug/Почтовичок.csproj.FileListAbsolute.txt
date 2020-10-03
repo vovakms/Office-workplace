@@ -1,0 +1,37 @@
+C:\Users\Admin\AppData\Local\Temporary Projects\Почтовичок\bin\Debug\Почтовичок.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\Почтовичок\bin\Debug\Почтовичок.pdb
+C:\Users\Admin\AppData\Local\Temporary Projects\Почтовичок\obj\x86\Debug\Почтовичок.Form1.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\Почтовичок\obj\x86\Debug\Почтовичок.Properties.Resources.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\Почтовичок\obj\x86\Debug\Почтовичок.csproj.GenerateResource.Cache
+C:\Users\Admin\AppData\Local\Temporary Projects\Почтовичок\obj\x86\Debug\Почтовичок.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\Почтовичок\obj\x86\Debug\Почтовичок.pdb
+C:\Users\Admin\Desktop\mail\Почтовичок\Почтовичок\obj\x86\Debug\Почтовичок.exe
+C:\Users\Admin\Desktop\mail\Почтовичок\Почтовичок\obj\x86\Debug\Почтовичок.pdb
+C:\Users\Admin\Desktop\mail\Почтовичок\Почтовичок\bin\Debug\Почтовичок.exe
+C:\Users\Admin\Desktop\mail\Почтовичок\Почтовичок\bin\Debug\Почтовичок.pdb
+C:\Users\Admin\Desktop\mail\Почтовичок\Почтовичок\obj\x86\Debug\Почтовичок.Form1.resources
+C:\Users\Admin\Desktop\mail\Почтовичок\Почтовичок\obj\x86\Debug\Почтовичок.Properties.Resources.resources
+C:\Users\Admin\Desktop\mail\Почтовичок\Почтовичок\obj\x86\Debug\Почтовичок.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\mail\Почтовичок\Почтовичок\obj\x86\Debug\Почтовичок.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\mail\Почтовичок\Почтовичок\bin\Debug\system.data.sqlite.dll
+C:\Users\Admin\Desktop\Почтовичок\Почтовичок\obj\x86\Debug\Почтовичок.exe
+C:\Users\Admin\Desktop\Почтовичок\Почтовичок\obj\x86\Debug\Почтовичок.pdb
+C:\Users\Admin\Desktop\Почтовичок\Почтовичок\bin\Debug\Почтовичок.exe
+C:\Users\Admin\Desktop\Почтовичок\Почтовичок\bin\Debug\Почтовичок.pdb
+C:\Users\Admin\Desktop\Почтовичок\Почтовичок\bin\Debug\system.data.sqlite.dll
+C:\Users\Admin\Desktop\Почтовичок\Почтовичок\obj\x86\Debug\Почтовичок.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Почтовичок\Почтовичок\obj\x86\Debug\Почтовичок.Form1.resources
+C:\Users\Admin\Desktop\Почтовичок\Почтовичок\obj\x86\Debug\Почтовичок.Properties.Resources.resources
+C:\Users\Admin\Desktop\Почтовичок\Почтовичок\obj\x86\Debug\Почтовичок.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Почтовичок\Почтовичок\bin\Debug\Почтовичок.exe.config
+D:\1_Relis\10_Почтовичок\Почтовичок\bin\Debug\Почтовичок.exe.config
+D:\1_Relis\10_Почтовичок\Почтовичок\obj\x86\Debug\Почтовичок.exe
+D:\1_Relis\10_Почтовичок\Почтовичок\obj\x86\Debug\Почтовичок.pdb
+D:\1_Relis\10_Почтовичок\Почтовичок\bin\Debug\Почтовичок.exe
+D:\1_Relis\10_Почтовичок\Почтовичок\bin\Debug\Почтовичок.pdb
+D:\1_Relis\10_Почтовичок\Почтовичок\bin\Debug\system.data.sqlite.dll
+D:\1_Relis\10_Почтовичок\Почтовичок\obj\x86\Debug\Почтовичок.csprojResolveAssemblyReference.cache
+D:\1_Relis\10_Почтовичок\Почтовичок\obj\x86\Debug\Почтовичок.Form1.resources
+D:\1_Relis\10_Почтовичок\Почтовичок\obj\x86\Debug\Почтовичок.Properties.Resources.resources
+D:\1_Relis\10_Почтовичок\Почтовичок\obj\x86\Debug\Почтовичок.csproj.GenerateResource.Cache
+D:\1_Relis\10_Почтовичок\Почтовичок\obj\x86\Debug\Почтовичок.Form2.resources
