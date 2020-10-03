@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ТСР.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Istoch" Type="System.String" Scope="User">
+      <Value Profile="(Default)">HyTech2</Value>
+    </Setting>
+    <Setting Name="ServPort" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10.27.0.36:13000</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
