@@ -1,12 +1,11 @@
-## Welcome to GitHub Pages
+# Сборник проектов
 
-You can use the [editor on GitHub](https://github.com/vovakms/Office-workplace/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Вы можете использовать [редактор на GitHub] (https://github.com/vovakms/Office-workplace/edit/gh-pages/index.md) для поддержки и предварительного просмотра содержимого вашего веб-сайта в файлах Markdown.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+Каждый раз, когда вы вносите изменения в этот репозиторий, GitHub Pages запускает [Jekyll] (https://jekyllrb.com/) для восстановления страниц вашего сайта из содержимого ваших файлов Markdown.
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown - это легкий и простой в использовании синтаксис для стилизации вашего текста. Он включает следующий синтаксис для разметки
 
 ```markdown
 Syntax highlighted code block
@@ -25,13 +24,18 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+ 
+# В этом репозитории следующие проекты 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vovakms/Office-workplace/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Агрегатор
+- ВыпискиМНС
+- ЗАГС_ЕИИС
+- Конвертор LDIF2CSV
+- Органайзер
+- Подсистемы ЕИИС
+- Почтовичок
+- Прогноз Закупок ТСР
+- Система Отчетов
+- ФГИС ЕГР ЗАГС - ЕИИС
+- Чат
+ 
